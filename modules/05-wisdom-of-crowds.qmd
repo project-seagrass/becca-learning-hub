@@ -95,4 +95,5 @@ As a practical guide:
 
 -   **Spatially divided fishery**: aim for at least 20 to 25 respondents
     per important area, where feasible.
+
 :::

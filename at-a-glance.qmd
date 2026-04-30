@@ -1,0 +1,61 @@
+---
+title: "BECCA at a glance"
+---
+
+## What is BECCA?
+
+The **Best Catch Assessment (BECCA)** is a standardised method for collecting quantitative information from fishers, harvesters, guides, gleaners, divers, and other local knowledge holders. It asks people to recall their best fishing or harvesting experiences, record the **number**, the **year**, and the **effort**, and then uses these responses to reconstruct patterns of catch, encounter rates, size, and change through time.
+
+BECCA was developed as a named approach by **Project Seagrass** in collaboration with **Florida International University**, with funding and support from the **Bonefish & Tarpon Trust**. It was first applied to South Florida bonefish and tarpon, but it can be adapted to many data-poor fisheries.
+
+## The core idea
+
+Many fisheries lack long-term monitoring, but they are not knowledge-poor. Fishers often remember the best day, the biggest fish, the fullest net, the heaviest basket, the most productive tide, or the year when fishing clearly changed. BECCA records these memories in a structured way so they can be analysed.
+
+| Number | Year | Effort |
+|---|---|---|
+| How much was caught, seen, hooked, collected, or harvested? | When did it happen? | How many hours, people, traps, hooks, hauls, or tide cycles were involved? |
+
+::: {.callout-important}
+Every usable BECCA response needs a **number**, a **year**, and an **effort measure**.
+:::
+
+## Minimum BECCA questions
+
+Every BECCA should ask about the current-year best catch, the best-ever catch, the first-year or early-career catch, effort, gear, and place.
+
+The current-year question is mandatory. A BECCA should include either the best-ever catch or the first-year catch. Asking all three is strongest.
+
+## What can BECCA measure?
+
+| Fishery type | Possible BECCA metric |
+|---|---|
+| Recreational sight fishing | sightings, shots, eats, hookups, landed fish, maximum size |
+| Catch-and-release fisheries | encounters, bites, hookups, size |
+| Gleaning | buckets, baskets, bags, individuals, weight |
+| Invertebrate harvesting | individuals, sacks, shell size, carapace width, weight |
+| Handline fisheries | fish numbers, baskets, boxes, kilograms |
+| Trap or pot fisheries | catch per trap per day, individuals, weight |
+| Net or seine fisheries | catch per haul, catch per net, baskets, weight |
+| Fish fence or weir fisheries | catch per tide cycle, sacks, baskets, weight |
+
+## Why effort matters
+
+Catch alone can be misleading. A catch of 20 fish in two hours is very different from 20 fish in ten hours. BECCA therefore standardises catch by effort.
+
+**Catch per unit effort = catch amount ÷ effort**
+
+| Reported catch | Effort | Standardised value |
+|---|---:|---:|
+| 40 fish | 5 hours | 8 fish per hour |
+| 3 baskets | 6 hours | 0.5 baskets per hour |
+| 18 hookups | 4 hours | 4.5 hookups per hour |
+| 8 buckets collected by 4 people | 4 hours | 0.5 buckets per person-hour |
+
+## Who should be interviewed?
+
+BECCA works best when the respondent group is **diverse**. Older and experienced fishers extend the historical baseline. Younger and newer fishers anchor current conditions. Women, gleaners, crew members, guides, part-time fishers, subsistence fishers, commercial fishers, and recreational fishers may all hold different parts of the picture.
+
+## BECCA in one sentence
+
+**BECCA asks fishers and harvesters about their best catches now and in the past, records each answer as a number, year, and effort measure, and uses many responses together to reconstruct long-term change in data-poor fisheries.**

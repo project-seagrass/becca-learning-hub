@@ -1,0 +1,702 @@
+---
+title: "BECCA questionnaire"
+---
+
+**Best Catch Assessment (BECCA) Questionnaire**
+
+A printable field form for collecting quantitative fisher knowledge in
+data-poor fisheries
+
+**How to use this questionnaire**
+
+This questionnaire is designed to be used alongside the Best Catch
+Assessment (BECCA) Handbook. The handbook explains the method and this
+questionnaire is the field tool.
+
+The questionnaire has a core section that should be used in every BECCA.
+It then includes optional modules that can be added depending on the
+fishery. Field teams should adapt the wording, species names, local
+places, gear categories, and catch units before printing or programming
+the survey into a digital form.
+
+The most important rule is simple: every usable BECCA response must
+include a number, a year, and an effort measure. If one of these is
+missing, the response may still be useful context, but it cannot be used
+properly in the main quantitative analysis.
+
+This questionnaire can be completed as an interview, a self-completed
+paper form, an online form, or a phone-based survey. For most community
+fisheries, an interviewer-led format is recommended because it allows
+local units, effort, and uncertainty to be clarified.
+
+**Interviewer checklist before starting**
+
+Before beginning, the interviewer should confirm that the respondent
+understands the purpose of the assessment and has agreed to take part.
+The interviewer should also make clear that the assessment is not
+judging individual fishing activity and that responses will normally be
+reported only as combined community-level or regional patterns.
+
+During the interview, record the respondent's words as accurately as
+possible. Do not force people into kilograms or scientific categories
+too quickly. If they describe catch in baskets, buckets, bags, sacks,
+bushels, strings, coolers, or another local unit, record that unit
+first. Then ask follow-up questions so the unit can be described and,
+where possible, converted later.
+
+Before finishing each interview, check that each best-catch response
+includes:
+
+  --------------------------------------------------------------------------
+  **Required item**          **Current year **Best-ever   **First-year or
+                             best catch**   catch**       early-career
+                                                          catch**
+  -------------------------- -------------- ------------- ------------------
+  Catch or encounter number  ☐              ☐             ☐
+
+  Year                       ☐              ☐             ☐
+
+  Unit                       ☐              ☐             ☐
+
+  Hours or effort measure    ☐              ☐             ☐
+
+  Gear or method             ☐              ☐             ☐
+
+  Area or place              ☐              ☐             ☐
+
+  Individual, boat,          ☐              ☐             ☐
+  household, crew, or group                               
+  catch                                                   
+
+  Confidence recorded        ☐              ☐             ☐
+  --------------------------------------------------------------------------
+
+**Participant information and consent**
+
+**Participant information**
+
+**Project title:** Best Catch Assessment for
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Who is carrying out this work?**\
+This assessment is being carried out by:
+
+Organisation / local partner:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Contact person:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Phone / email:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Why are we doing this assessment?**\
+Many fisheries do not have long-term catch records, but fishers and
+harvesters often hold detailed knowledge of how catches have changed.
+This assessment asks about best catches now and in the past so that we
+can better understand long-term change in this fishery.
+
+**What will you be asked?**\
+You will be asked about your fishing or harvesting experience, the year
+you started, your best catch or best fishing day in the current year,
+your best catch or best fishing day in the past, the amount caught or
+encountered, the year it happened, the effort involved, the fishing
+method used, and the general area.
+
+The interview should take about: \_\_\_\_\_\_ minutes.
+
+**Do you have to take part?**\
+No. Taking part is voluntary. You can choose not to answer any question,
+and you can stop the interview at any time.
+
+**Will your answers be anonymous?**\
+Your individual answers will not be reported with your name. Results
+will be combined with responses from other fishers and reported as
+community-level or regional patterns. If we want to use your name, quote
+you directly, or show a photograph of you, we will ask for separate
+permission.
+
+**Are there any risks?**\
+Some catch or location information may be sensitive. We will not publish
+exact fishing locations or individual catch records unless this has been
+agreed. If any question makes you uncomfortable, you do not have to
+answer it.
+
+**What are the benefits?**\
+The assessment will help document local knowledge and may support better
+understanding, monitoring, and management of the fishery. Results will
+be shared back with the community or local partners where possible.
+
+**Consent statement**
+
+Interviewer: please read or summarise this statement before starting.
+
+I have been told what this assessment is about. I understand that taking
+part is voluntary, that I can skip questions, and that I can stop at any
+time. I understand that my answers will be combined with answers from
+other fishers and that my name will not be used in reports unless I give
+separate permission. I agree to take part in this Best Catch Assessment.
+
+Participant agrees to take part: ☐ Yes ☐ No
+
+Consent type: ☐ Verbal ☐ Written
+
+Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Interviewer name:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Participant name or anonymous code:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Optional permissions**
+
+May we contact you again to check results or invite you to a feedback
+meeting?\
+☐ Yes ☐ No
+
+If yes, preferred contact details:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+May we use anonymous quotes from your interview?\
+☐ Yes ☐ No
+
+May we take or use a photograph of you for the report or communication
+materials?\
+☐ Yes ☐ No
+
+May we record the interview for note-checking only?\
+☐ Yes ☐ No
+
+**Section A. Interview details**
+
+**A1. Interview ID:**
+
+**A2. Date of interview:**
+
+**A3. Interviewer name:**
+
+**A4. Location of interview:**
+
+**A5. Community / village / landing site / fishing area:**
+
+**A6. Survey format:**\
+☐ In-person interview\
+☐ Phone interview\
+☐ Paper form completed by respondent\
+☐ Online survey\
+☐ Focus group-assisted individual form
+
+☐ Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**A7. Language used:**
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Section B. Respondent background**
+
+**B1. Which of these best describes your role in this fishery?**
+
+Tick all that apply.
+
+☐ Small-scale fisher\
+☐ Subsistence fisher\
+☐ Commercial fisher\
+☐ Recreational fisher\
+☐ Fishing guide\
+☐ Gleaner / shore collector\
+☐ Diver\
+☐ Trap / pot fisher\
+☐ Net fisher\
+☐ Fish fence / weir fisher\
+☐ Fish processor\
+☐ Fish trader / seller\
+☐ Boat crew\
+☐ Community fisheries leader
+
+☐ Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**B2. What species or fishery are we discussing today?**
+
+Target species / species group:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Local name(s):
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Scientific name, if known:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**B3. What year did you first start fishing, harvesting, guiding,
+collecting, or working in this fishery?**
+
+Year started: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+If unsure, approximate year when started:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**B4. How many years of experience do you have in this fishery?**
+
+Years of experience: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**B5. What is your age?**
+
+Age: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Prefer not to say: ☐
+
+**B6. Gender**
+
+☐ Woman\
+☐ Man\
+☐ Another gender: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+☐ Prefer not to say
+
+**B7. Do you fish or harvest mainly for:**
+
+Tick all that apply.
+
+☐ Household food\
+☐ Sale / income\
+☐ Recreation\
+☐ Cultural or customary practice\
+☐ Mixed reasons
+
+☐ Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**B8. In a typical year, how many days do you fish, harvest, or collect
+in this fishery?**
+
+Days per year: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**B9. On a typical fishing or harvesting day, how many hours do you
+usually spend fishing, harvesting, or collecting?**
+
+Hours per day: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**B10. What gear or method do you primarily use in this fishery?**
+
+Tick only one and record local names where possible.
+
+☐ Handline\
+☐ Rod and line\
+☐ Fly fishing\
+☐ Cast net\
+☐ Gill net\
+☐ Seine net\
+☐ Drag net\
+☐ Lift net\
+☐ Trap / pot\
+☐ Basket trap\
+☐ Fish fence / weir\
+☐ Spear\
+☐ Diving\
+☐ Gleaning by hand\
+☐ Rake or digging tool\
+☐ Hookah / compressor diving\
+☐ Boat-based harvesting\
+☐ Shore-based harvesting
+
+☐ Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Local gear name(s):
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**OPTIONAL: B11. What are your main fishing or harvesting areas?**
+
+Area 1:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Area 2:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Area 3:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Other:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Section C. Current-year best catch**
+
+This section is [mandatory]{.underline} for every BECCA.
+
+**C1. Did you fish, guide, harvest, collect, or target
+\[species/fishery\] in the current year?**
+
+Current year: \_\_\_\_\_\_\_\_\_\_\_\_
+
+☐ Yes\
+☐ No
+
+If no, skip to Section D.
+
+**C2. Thinking about the current year, what was your best fishing or
+harvesting day for \[species/fishery\]?**
+
+Please describe the day briefly:
+
+**C3. How much did you catch, or collect on that day?**
+
+Number / amount: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**C4. What unit are you using?**
+
+☐ Number of fish / individuals\
+☐ Kilograms\
+☐ Pounds\
+☐ Baskets\
+☐ Bags\
+☐ Buckets\
+☐ Sacks\
+☐ Boxes\
+☐ Bushels\
+☐ Bundles\
+☐ Strings\
+☐ Coolers\
+☐ Landed fish\
+☐ Shells\
+☐ Crabs / lobsters / invertebrates
+
+☐ Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**C5. Was this catch total for:**
+
+☐ You alone\
+☐ Your boat\
+☐ Your crew\
+☐ Your household\
+☐ A group\
+☐ A fish fence / weir / shared gear
+
+☐ Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**C6. How many people were involved?**
+
+Number of people: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**C7. What gear or method did you use on that day?**
+
+Gear / method:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Local gear name:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**C8. How confident are you in this answer?**
+
+☐ Very confident\
+☐ Fairly confident\
+☐ Unsure
+
+**C9. Any notes about this catch?**
+
+For example: weather, tide, season, unusual event, market day, group
+catch, special trip.
+
+**Section D. Best-ever catch**
+
+This section is [mandatory]{.underline} for every BECCA.
+
+**D1. Thinking across your whole fishing or harvesting life, what was
+your best ever fishing or harvesting day for \[species/fishery\]?**
+
+This means the day when you caught or collected the highest amount,
+*using the unit that makes most sense for this fishery.*
+
+Can you describe the day briefly?
+
+**D2. What year did this happen?**
+
+Year: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+If unsure, approximate year:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**D3. How much did you catch or collect on that day?**
+
+Number / amount: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**D4. What unit are you using?**
+
+☐ Number of fish / individuals\
+☐ Kilograms\
+☐ Pounds\
+☐ Baskets\
+☐ Bags\
+☐ Buckets\
+☐ Sacks\
+☐ Boxes\
+☐ Bushels\
+☐ Bundles\
+☐ Strings\
+☐ Coolers\
+☐ Landed fish\
+☐ Shells\
+☐ Crabs / lobsters / invertebrates
+
+☐ Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**D5. Was this catch or encounter total for:**
+
+☐ You alone\
+☐ Your boat\
+☐ Your crew\
+☐ Your household\
+☐ A group\
+☐ A fish fence / weir / shared gear
+
+☐ Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**D6. How many people were involved?**
+
+Number of people: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**D7. What gear or method did you use on that day?**
+
+Gear / method:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Local gear name:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**D8. Why do you remember this catch or fishing day?**
+
+**D9. How confident are you in this answer?**
+
+☐ Very confident\
+☐ Fairly confident\
+☐ Unsure
+
+**D10. Any notes about this catch?**
+
+**Section E. First-year or early-career best catch**
+
+This section is strongly recommended but is not mandatory. It is
+alternative to Section D.
+
+**E1. Thinking back to the year you started fishing or harvesting
+\[species/fishery\], what was your best fishing or harvesting day in
+that first year or early period?**
+
+If you cannot remember the exact first year, think about your earliest
+period in this fishery.
+
+Please describe the day or early period briefly:
+
+**E2. What year was this?**
+
+Year: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+If approximate, please explain:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**E3. How much did you catch or collect on that day?**
+
+Number / amount: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**E4. What unit are you using?**
+
+☐ Number of fish / individuals\
+☐ Kilograms\
+☐ Pounds\
+☐ Baskets\
+☐ Bags\
+☐ Buckets\
+☐ Sacks\
+☐ Boxes\
+☐ Bushels\
+☐ Bundles\
+☐ Strings\
+☐ Coolers\
+☐ Landed fish\
+☐ Shells\
+☐ Crabs / lobsters / invertebrates
+
+☐ Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**E5. Was this catch or encounter total for:**
+
+☐ You alone\
+☐ Your boat\
+☐ Your crew\
+☐ Your household\
+☐ A group\
+☐ A fish fence / weir / shared gear
+
+☐ Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**E6. How many people were involved?**
+
+Number of people: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**E7. What gear or method did you use on that day?**
+
+Gear / method:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Local gear name:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**E8. How confident are you in this answer?**
+
+☐ Very confident\
+☐ Fairly confident\
+☐ Unsure
+
+**E9. Any notes about this catch?**
+
+**Section F. Size information**
+
+Use this section where body size, shell size, market size, or maximum
+size is important.
+
+**F1. Across your whole fishing or harvesting life, what is the largest
+individual \[species\] you remember catching, harvesting, or
+encountering?**
+
+Description:
+
+**F2. What year was this?**
+
+Year: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+If unsure, approximate year:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**F3. What was its size?**
+
+Size: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Unit:
+
+☐ Kilograms\
+☐ Pounds\
+☐ Length in cm\
+☐ Length in inches\
+☐ Shell length\
+☐ Shell width\
+☐ Carapace width\
+☐ Market grade\
+☐ Local size class
+
+☐ Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**F4. How was this size known?**
+
+☐ Measured\
+☐ Weighed\
+☐ Sold at market\
+☐ Recorded in a logbook\
+☐ Photograph exists\
+☐ Estimated from memory
+
+☐ Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**F5. What gear or method was used?**
+
+Gear / method:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**F6. How confident are you in this answer?**
+
+☐ Very confident\
+☐ Fairly confident\
+☐ Unsure
+
+**F7. Largest individual in the current year**
+
+Did you catch, harvest, or encounter this species in the current year?\
+☐ Yes ☐ No
+
+If yes, what was the largest individual this year?
+
+Size: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Unit:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Was it measured, weighed, or estimated?
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Local unit conversion sheet**
+
+Use this sheet whenever respondents use local units such as baskets,
+buckets, bags, sacks, boxes, bundles, strings, bushels, coolers, plates,
+trays, or boatloads.
+
+  ----------------------------------------------------------------------------
+  **Local unit      **Description of       **Approx.     **Approx.   **Does
+  name**            unit**                 number of     weight per  this vary
+                                           individuals   unit**      by
+                                           per unit**                species
+                                                                     or
+                                                                     size?**
+  ----------------- ---------------------- ------------- ----------- ---------
+                                                                     
+
+                                                                     
+
+                                                                     
+
+                                                                     
+
+                                                                     
+  ----------------------------------------------------------------------------
+
+Notes on local units:
+
+**Data quality checklist**
+
+Complete this after the interview.
+
+**Q1. Does the current-year best catch include a number, unit, year, and
+effort measure?**
+
+☐ Yes ☐ No ☐ Not applicable
+
+**Q2. Does the best-ever catch include a number, unit, year, and effort
+measure?**
+
+☐ Yes ☐ No ☐ Not applicable
+
+**Q3. Does the first-year or early-career catch include a number, unit,
+year, and effort measure?**
+
+☐ Yes ☐ No ☐ Not applicable
+
+**Q4. Were gear or method details recorded?**
+
+☐ Yes ☐ No
+
+**Q5. Was the catch identified as individual, boat, crew, household,
+group, or shared gear catch?**
+
+☐ Yes ☐ No
+
+**Q6. Were local units described clearly enough for later conversion?**
+
+☐ Yes ☐ No ☐ Not needed
+
+**Q7. Overall data quality flag**
+
+☐ A: complete and clear\
+☐ B: minor uncertainty but usable\
+☐ C: missing effort or unclear unit\
+☐ D: missing year or catch number\
+☐ E: contradictory or implausible, needs checking
+
+Interviewer notes:
+
+**Closing script**
+
+Thank you for sharing your knowledge and experience. Your answers will
+be combined with those from other fishers and harvesters to help
+understand how this fishery has changed over time. Individual answers
+will not be reported with names unless separate permission has been
+given. Where possible, results will be shared back with the community or
+local partners.
+
+Would you like to be informed about the results or invited to a feedback
+meeting?
+
+☐ Yes\
+☐ No
+
+Preferred contact details, if yes:

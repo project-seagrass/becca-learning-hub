@@ -1,0 +1,21 @@
+---
+title: "Downloads"
+---
+
+## Available files
+
+- [BECCA Handbook](downloads/BECCA_Handbook.pdf)
+- [BECCA Data Input Template](downloads/BECCA_Data_Input_Template.xlsx)
+- [BECCA Questionnaire](downloads/BECCA_Questionnaire.docx)
+
+## Suggested additional files to add later
+
+- BECCA Handbook PDF
+- Printable BECCA Questionnaire PDF
+- BECCA Data Template Excel workbook
+- Example cleaned dataset
+- Example analysis script
+
+::: {.callout-note}
+Add any PDFs, Word documents, Excel templates, or images to the `downloads/` folder, then link to them from this page.
+:::

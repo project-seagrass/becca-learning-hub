@@ -1,0 +1,91 @@
+---
+title: "References"
+---
+
+1 Jones, B. L. H. *et al.* New directions for Indigenous and local
+knowledge research and application in fisheries science: Lessons from a
+systematic review. *Fish and Fisheries* **25**, 647-671 (2024).
+<https://doi.org/10.1111/faf.12831>
+
+2 Dowling, N. A. *et al.* The FishPath approach for fisheries management
+in a data- and capacity-limited world. *Fish and Fisheries* **24**,
+212-230 (2023). <https://doi.org/https://doi.org/10.1111/faf.12721>
+
+3 Jones, B. *et al.* Six decades of fishery change inferred from
+fishers' recollections of their best catches. (2026).
+<https://doi.org/10.21203/rs.3.rs-9115805/v1>
+
+4 Saenz-Arroyo, A., Roberts, C. M., Torre, J., Carino-Olvera, M. &
+Enriquez-Andrade, R. R. Rapidly shifting environmental baselines among
+fishers of the Gulf of California. *Proceedings of the Royal Society
+B-Biological Sciences* **272**, 1957-1962 (2005).
+<https://doi.org/10.1098/rspb.2005.3175>
+
+5 Sáenz--Arroyo, A., Roberts, C. M., Torre, J. & Cariño-Olvera, M. Using
+fishers' anecdotes, naturalists' observations and grey literature to
+reassess marine species at risk: the case of the Gulf grouper in the
+Gulf of California, Mexico. *Fish and Fisheries* **6**, 121-133 (2005).
+<https://doi.org/10.1111/j.1467-2979.2005.00185.x>
+
+6 Bender, M. G. *et al.* Local Ecological Knowledge and Scientific Data
+Reveal Overexploitation by Multigear Artisanal Fisheries in the
+Southwestern Atlantic. *PLOS ONE* **9**, e110332 (2014).
+<https://doi.org/10.1371/journal.pone.0110332>
+
+7 Tesfamichael, D., Pitcher, T. J. & Pauly, D. Assessing changes in
+fisheries using fishers' knowledge to generate long time series of catch
+rates: a case study from the Red Sea. *Ecology and Society* **19**
+(2014). <https://doi.org/10.5751/ES-06151-190118>
+
+8 Lavides, M. N. *et al.* Patterns of Coral-Reef Finfish Species
+Disappearances Inferred from Fishers' Knowledge in Global Epicentre of
+Marine Shorefish Diversity. *PLOS ONE* **11**, e0155752 (2016).
+<https://doi.org/10.1371/journal.pone.0155752>
+
+9 Leduc, A. O. H. C. *et al.* Local ecological knowledge to assist
+conservation status assessments in data poor contexts: a case study with
+the threatened sharks of the Brazilian Northeast. *Biodiversity and
+Conservation* **30**, 819-845 (2021).
+<https://doi.org/10.1007/s10531-021-02119-5>
+
+10 Braga-Pereira, F. *et al.* Congruence of local ecological knowledge
+(LEK)-based methods and line-transect surveys in estimating wildlife
+abundance in tropical forests. *Methods in Ecology and Evolution*
+**13**, 743-756 (2022).
+<https://doi.org/https://doi.org/10.1111/2041-210X.13773>
+
+11 Thurstan, R. H., Buckley, S. M., Ortiz, J. C. & Pandolfi, J. M.
+Setting the Record Straight: Assessing the Reliability of Retrospective
+Accounts of Change. *Conservation Letters* **9**, 98-105 (2016).
+<https://doi.org/10.1111/conl.12184>
+
+12 Surowiecki, J. *The wisdom of crowds: Why the many are smarter than
+the few and how collective wisdom shapes business, economies, societies,
+and nations*. (Doubleday, 2004).
+
+13 Gray, S. *et al.* Harnessing the collective intelligence of
+stakeholders for conservation. *Frontiers in Ecology and the
+Environment* **18**, 465-472 (2020). <https://doi.org/10.1002/fee.2232>
+
+14 Jones, B. L. H. *et al.* Stakeholder diversity matters: employing the
+wisdom of crowds for data-poor fisheries assessments. *Scientific
+Reports* **15**, 440 (2025).
+<https://doi.org/10.1038/s41598-024-84970-4>
+
+15 Castello, L. *et al.* Local knowledge reconstructs historical
+resource use. *Frontiers in Ecology and the Environment* **22**, e2726
+(2024). <https://doi.org/https://doi.org/10.1002/fee.2726>
+
+16 Grantham, R., Lau, J. & Kleiber, D. Gleaning: beyond the subsistence
+narrative. *Maritime Studies* **19**, 509-524 (2020).
+<https://doi.org/10.1007/s40152-020-00200-3>
+
+17 Grantham, R., Álvarez‐Romero, J. G., Mills, D. J., Rojas, C. &
+Cumming, G. S. Spatiotemporal determinants of seasonal gleaning. *People
+and Nature* **3**, 376-390 (2021).
+
+18 Rehage, J. S. *et al.* How has the quality of bonefishing changed
+over the past 40 years? Using local ecological knowledge to
+quantitatively inform population declines in the South Florida flats
+fishery. *Environmental Biology of Fishes* **102**, 285-298 (2019).
+<https://doi.org/10.1007/s10641-018-0831-2>

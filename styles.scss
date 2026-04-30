@@ -1,0 +1,36 @@
+/* Project Seagrass / BECCA lightweight styling */
+:root {
+  --becca-blue: #0b7285;
+  --becca-teal: #087f5b;
+  --becca-sand: #f8f5ef;
+}
+
+.hero {
+  padding: 2rem;
+  border-radius: 1rem;
+  background: linear-gradient(135deg, #e6fcf5, #e7f5ff);
+  border: 1px solid #d0ebff;
+  margin-bottom: 1.5rem;
+}
+
+.hero h1 {
+  margin-top: 0;
+  color: var(--becca-blue);
+}
+
+.callout-note {
+  border-left-color: var(--becca-blue) !important;
+}
+
+.callout-tip {
+  border-left-color: var(--becca-teal) !important;
+}
+
+table {
+  font-size: 0.95rem;
+}
+
+.small {
+  font-size: 0.9rem;
+  color: #555;
+}

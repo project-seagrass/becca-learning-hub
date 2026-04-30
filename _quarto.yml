@@ -1,0 +1,90 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "BECCA Learning Hub"
+  site-url: "https://project-seagrass.github.io/becca-learning-hub/"
+  repo-url: "https://github.com/project-seagrass/becca-learning-hub"
+  repo-actions: [edit, issue]
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: at-a-glance.qmd
+        text: "At a glance"
+      - text: Modules
+        menu:
+          - href: modules/01-what-is-becca.qmd
+            text: "1. What is BECCA?"
+          - href: modules/02-why-becca-was-developed.qmd
+            text: "2. Why BECCA was developed"
+          - href: modules/03-why-best-catches.qmd
+            text: "3. Why best catches?"
+          - href: modules/04-core-principles.qmd
+            text: "4. Core principles"
+          - href: modules/05-wisdom-of-crowds.qmd
+            text: "5. Wisdom of Crowds"
+          - href: modules/06-choosing-metrics.qmd
+            text: "6. Choosing metrics"
+          - href: modules/07-question-structure.qmd
+            text: "7. Question structure"
+          - href: modules/08-survey-delivery.qmd
+            text: "8. Survey delivery"
+          - href: modules/09-calculating-indicators.qmd
+            text: "9. Calculating indicators"
+          - href: modules/10-data-quality-ethics.qmd
+            text: "10. Data quality and ethics"
+          - href: modules/11-data-storage.qmd
+            text: "11. Data storage"
+      - href: examples/index.qmd
+        text: Examples
+      - href: questionnaire.qmd
+        text: Questionnaire
+      - href: downloads.qmd
+        text: Downloads
+      - href: references.qmd
+        text: References
+  sidebar:
+    style: "docked"
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: at-a-glance.qmd
+        text: "BECCA at a glance"
+      - section: "Learning modules"
+        contents:
+          - modules/01-what-is-becca.qmd
+          - modules/02-why-becca-was-developed.qmd
+          - modules/03-why-best-catches.qmd
+          - modules/04-core-principles.qmd
+          - modules/05-wisdom-of-crowds.qmd
+          - modules/06-choosing-metrics.qmd
+          - modules/07-question-structure.qmd
+          - modules/08-survey-delivery.qmd
+          - modules/09-calculating-indicators.qmd
+          - modules/10-data-quality-ethics.qmd
+          - modules/11-data-storage.qmd
+      - section: "Field tools"
+        contents:
+          - questionnaire.qmd
+          - downloads.qmd
+      - section: "Examples"
+        contents:
+          - examples/index.qmd
+      - references.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    page-layout: full
+    callout-appearance: simple
+    code-copy: true
+
+execute:
+  freeze: auto

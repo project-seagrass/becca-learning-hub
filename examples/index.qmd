@@ -1,0 +1,102 @@
+---
+title: "Worked examples"
+---
+
+## Example 1: A catch-and-release tarpon-style fishery
+
+A local NGO wants to understand whether a catch-and-release tarpon-like
+fishery has changed over time. Fish are rarely kept, so landing data are
+almost useless. Fishers and guides, however, talk constantly about the
+number of eats and hookups they have in a day. The survey therefore
+focuses on eats, hookups, and maximum fish size.
+
+Respondents are first asked how many years of experience they have, how
+many days they typically fish each year, how many hours they fish in a
+typical day, and what proportion of their fishing occurs in each region.
+The survey then asks about each region where they spend at least 10% of
+their fishing time. For each region, they are asked for their best ever
+day in terms of eats, their best ever day in terms of hookups, and the
+largest fish they ever caught. Each question asks for the year and the
+number. The survey then asks the same questions for the current year.
+
+The analysis produces eats per standard fishing day, hookups per
+standard fishing day, and maximum size by year. Because the best day for
+eats may differ from the best day for size, the survey treats these as
+separate memories. This allows the assessment to show whether encounter
+rates and size structure have changed in the same way or whether they
+tell different stories.
+
+## Example 2: An invertebrate gleaning fishery
+
+A coastal community collects invertebrates from intertidal seagrass
+meadows. Most harvest is eaten locally or sold informally, so there are
+no landing records. Harvesters describe catch in buckets, not kilograms.
+During the survey design meeting, local women explain that a "bucket"
+usually means a 10-litre household bucket filled to the rim, although
+some households use larger containers.
+
+The BECCA asks each harvester about their best collecting day this year,
+their best ever collecting day, and their best collecting day when they
+first started. For each event, the interviewer records the number of
+buckets, the year, the number of hours spent collecting, the number of
+people collecting, the tide or season if remembered, and the general
+collection area. A short local unit exercise is then used to estimate
+how many invertebrates and how much weight one full bucket usually
+represents.
+
+The analysis produces buckets per person-hour and, where conversion is
+reliable, kilograms per person-hour. The community validation meeting
+then helps interpret whether declines are linked to harvesting pressure,
+sediment change, water quality, market demand, access restrictions, or
+changes in who collects.
+
+## Example 3: A trap-based crab fishery
+
+A small-scale crab fishery uses baited traps set overnight. Fishers do
+not think of catch in hours because the traps fish while they are away.
+They think in terms of number of crabs per trap set. The BECCA therefore
+records catch, number of traps, and soak time.
+
+A fisher might say that in 2007 their best day was 300 crabs from 50
+traps soaked overnight. In the current year, their best day might be 120
+crabs from 80 traps. If the analysis used catch alone, the decline would
+appear moderate. But when standardised by trap effort, the change is
+much clearer. The historical best catch was six crabs per trap per soak,
+while the current best catch is 1.5 crabs per trap per soak.This example
+shows why effort matters. Without effort standardisation, BECCA can
+misread the fishery.
+
+## Example 4: A multi-species reef handline fishery
+
+A reef handline fishery catches many species, and fishers sell catch in
+baskets at the landing site. During survey design, the field team learns
+that fishers can remember total baskets well, but species-specific
+baskets less reliably. The BECCA therefore records total reef fish
+catch, but also asks whether the catch was dominated by snapper,
+grouper, parrotfish, emperor, or mixed reef fish.
+
+A respondent reports that their best day in 1995 was eight baskets from
+a six-hour trip with three crew. Their current-year best day was three
+baskets from seven hours with four crew. The analysis can calculate
+baskets per boat-hour and baskets per person-hour. If basket weight can
+be estimated, the data can also be converted to kilograms per
+person-hour.
+
+The community validation discussion may reveal that catch composition
+has changed even where total baskets appear stable. This can trigger a
+follow-up survey or a more detailed species-specific BECCA.
+
+## Example 5: A traditional fish fence or weir fishery
+
+A traditional fish fence catches fish moving with the tide. Fishers
+describe the best catches by sacks and by tide cycles, not by hours. The
+BECCA therefore records the year, number of sacks, number of tide
+cycles, number of people involved, and whether the catch came from one
+fence, one section, or a shared community structure.
+
+The analysis may use sacks per tide cycle, or estimated kilograms per
+tide cycle if sack conversion is reliable. If the fish fence has changed
+in size or construction over time, this is recorded as context. The
+final report should be careful not to compare catches across decades
+without explaining changes in fence length, location, ownership, or
+access.

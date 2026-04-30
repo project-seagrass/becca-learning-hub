@@ -77,7 +77,7 @@ referrals, and public survey links. The final report should always
 explain how respondents were recruited and which groups may be
 underrepresented.
 
-**Key takeaway:**
+
 ::: {.callout-tip}
 ## Key takeaway:
 As a practical guide:

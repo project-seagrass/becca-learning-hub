@@ -16,11 +16,17 @@ places, and years.
 A BECCA response should look like this:
 
 *"In 1989, my best day was 65 fish."*
+
 or:
+
 *"In 2004, I collected 3 sacks in one day."*
+
 or:
+
 *"In 2012, my best day was 18 hookups."*
+
 or:
+
 *"In 1995, I harvested about 25 kg in 6 hours."*
 
 The number and year are the foundation of the method.
@@ -71,15 +77,19 @@ is not to erase local measurement systems. The aim is to document them
 clearly enough that they can be analysed.
 
 ::: {.callout-tip}
-**Key takeaway:
+## Key takeaway:
 
 Record the local unit, then ask follow-up questions to standardise it.
 
 For example:
 -   *"How many fish are usually in one basket?"*
+
 -   *"How many kilograms does one full sack usually weigh?"*
+
 -   "How many crabs fit in one bucket?"
+
 -   "What size is the bag you are referring to?"
+
 -   "Is that a household bucket, market bucket, rice sack, feed sack, or
     another type?"
 :::

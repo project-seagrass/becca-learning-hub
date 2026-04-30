@@ -4,6 +4,7 @@ project:
 
 website:
   title: "BECCA Learning Hub"
+  logo: assets/project-seagrass-logo.png
   site-url: "https://project-seagrass.github.io/becca-learning-hub/"
   repo-url: "https://github.com/project-seagrass/becca-learning-hub"
   repo-actions: [edit, issue]

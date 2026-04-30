@@ -2,7 +2,7 @@
 title: "BECCA Learning Hub"
 subtitle: "Best Catch Assessment training and resources"
 ---
-
+![](assets/project-seagrass-logo.png){width=180px}
 ::: {.hero}
 # Best Catch Assessment (BECCA) Learning Hub
 

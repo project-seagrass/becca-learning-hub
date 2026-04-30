@@ -79,7 +79,7 @@ underrepresented.
 
 **Key takeaway:**
 ::: {.callout-tip}
-**Key takeaway:
+## Key takeaway:
 As a practical guide:
 
 -   **Very small fishery**: interview as many active and former fishers

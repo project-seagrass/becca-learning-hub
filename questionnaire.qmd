@@ -615,33 +615,6 @@ Size: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Unit:
 Was it measured, weighed, or estimated?
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Local unit conversion sheet**
-
-Use this sheet whenever respondents use local units such as baskets,
-buckets, bags, sacks, boxes, bundles, strings, bushels, coolers, plates,
-trays, or boatloads.
-
-  ----------------------------------------------------------------------------
-  **Local unit      **Description of       **Approx.     **Approx.   **Does
-  name**            unit**                 number of     weight per  this vary
-                                           individuals   unit**      by
-                                           per unit**                species
-                                                                     or
-                                                                     size?**
-  ----------------- ---------------------- ------------- ----------- ---------
-                                                                     
-
-                                                                     
-
-                                                                     
-
-                                                                     
-
-                                                                     
-  ----------------------------------------------------------------------------
-
-Notes on local units:
-
 **Data quality checklist**
 
 Complete this after the interview.

@@ -10,7 +10,9 @@ seen, hooked, harvested, or collected. The year places that event in
 time. The effort measure allows comparison between people, gears,
 places, and years.
 
-**Key takeaway:\
+
+::: {.callout-tip}
+## Key takeaway:
 **A BECCA response should look like this:
 
 *"In 1989, my best day was 65 fish."*
@@ -28,6 +30,7 @@ or:
 *"In 1995, I harvested about 25 kg in 6 hours."*
 
 The number and year are the foundation of the method.
+:::
 
 A fisher who caught 20 fish in two hours had a different fishing day
 from someone who caught 20 fish in ten hours. A gleaner who collected

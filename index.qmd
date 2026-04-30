@@ -42,6 +42,23 @@ Start with [BECCA at a glance](at-a-glance.qmd), then work through the learning 
 7. [Using the questionnaire](questionnaire.qmd)
 8. [Data storage](modules/11-data-storage.qmd)
 
-## Citation
+## Handbook Citation
 
 Jones, B.L.H. (2026). *Best Catch Assessment (BECCA) Handbook: A practical guide for turning fisher knowledge into quantitative information for data-poor fisheries*. Project Seagrass, UK.
+
+::: {.partner-strip}
+::: {.partner-block}
+**In collaboration with:**
+
+![](assets/fiu-logo.png){.partner-logo}
+:::
+
+::: {.partner-divider}
+:::
+
+::: {.partner-block}
+**Funded by:**
+
+![](assets/btt-logo.png){.partner-logo}
+:::
+:::

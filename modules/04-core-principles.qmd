@@ -1,0 +1,108 @@
+---
+title: "Core principles of BECCA"
+---
+
+## Number, year, effort
+
+The foundation of BECCA is simple. Every usable response needs a number,
+a year, and an effort measure. The number describes what was caught,
+seen, hooked, harvested, or collected. The year places that event in
+time. The effort measure allows comparison between people, gears,
+places, and years.
+
+**Key takeaway:\
+**A BECCA response should look like this:
+
+*"In 1989, my best day was 65 fish."*
+
+or:
+
+*"In 2004, I collected 3 sacks in one day."*
+
+or:
+
+*"In 2012, my best day was 18 hookups."*
+
+or:
+
+*"In 1995, I harvested about 25 kg in 6 hours."*
+
+The number and year are the foundation of the method.
+
+A fisher who caught 20 fish in two hours had a different fishing day
+from someone who caught 20 fish in ten hours. A gleaner who collected
+two buckets alone in three hours had a different experience from a
+household group collecting two buckets over a full day. A trap fisher
+using 10 traps cannot be compared directly with a trap fisher using 100
+traps unless the number of traps and soak time are recorded.
+
+The minimum effort variable is the number of hours fished or harvested
+in a day. Where relevant, BECCA should also record the number of people
+involved, the number of gears used, the number of traps, the number of
+hooks, net length, soak time, number of hauls, number of dives, or any
+other local effort unit that strongly affects catch.
+
+## Current and past together
+
+BECCA works because it anchors the present against remembered historical
+baselines. Every survey must ask about the best catch in the current
+year. This is mandatory. Every survey must also ask either about the
+respondent's best ever catch or about the best catch in the year they
+started fishing. The strongest version asks all three.
+
+The current-year question tells us what the fishery looks like now. The
+best-ever question identifies the point in a respondent's experience
+when fishing was most productive. The first-year question helps place
+each fisher's personal baseline in time and is especially useful for
+detecting shifting baselines across generations.
+
+## Use locally meaningful units
+
+Fishers and harvesters do not always speak in kilograms. They may speak
+in baskets, buckets, bags, sacks, bundles, boxes, coolers, strings,
+plates, trays, bushels, or boatloads. In recreational fisheries they may
+speak in shots, follows, eats, hookups, landed fish, or fish weight.
+These units should not be dismissed. They are often the units by which
+the fishery is actually remembered, shared, traded, and managed locally.
+
+The role of BECCA is to record the local unit clearly and then
+standardise it where possible. If someone says they collected three
+sacks, the interviewer should ask what type of sack, whether that sack
+is a common local size, whether it varies by species, and approximately
+how many individuals or how much weight a full sack represents. The aim
+is not to erase local measurement systems. The aim is to document them
+clearly enough that they can be analysed.
+
+**Key takeaway:**
+
+Record the local unit, then ask follow-up questions to standardise it.
+
+For example:
+
+-   *"How many fish are usually in one basket?"*
+
+-   *"How many kilograms does one full sack usually weigh?"*
+
+-   "How many crabs fit in one bucket?"
+
+-   "What size is the bag you are referring to?"
+
+-   "Is that a household bucket, market bucket, rice sack, feed sack, or
+    another type?"
+
+## Match the metric to the fishery
+
+The best BECCA metric is the one that fishers can report accurately and
+consistently. In some fisheries this will be number of fish. In others
+it will be weight. In gleaning fisheries it may be buckets or baskets.
+In trap fisheries it may be catch per trap per day. In sight-based
+recreational fisheries it may be shots, eats, or hookups rather than
+landed fish. In single-species fisheries, size is often critical,
+because changes in maximum size can reveal changes in population
+structure even when catch rates are unclear.
+
+The metric should be familiar, countable, linked to a specific year,
+linked to effort, and comparable across respondents after
+standardisation.
+
+![](media/image6.jpeg)

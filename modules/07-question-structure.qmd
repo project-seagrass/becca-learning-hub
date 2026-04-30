@@ -1,0 +1,95 @@
+---
+title: "The minimum BECCA question structure"
+---
+
+## Opening language
+
+The opening script should be simple, respectful, and transparent. It
+should explain that the survey is not designed to judge individual
+fishing activity, but to understand long-term change in the fishery. For
+example:
+
+*"We are asking fishers and harvesters about their best catches, both
+now and in the past. We are doing this because many fisheries do not
+have long-term catch records, but local fishers often hold detailed
+knowledge of how catches have changed. We are not asking this to check
+or judge individual fishing activity. We are trying to understand
+long-term change in the fishery. Your answers will be combined with
+other fishers' answers and reported as community-level patterns, not as
+individual records."*
+
+## Respondent background
+
+The background section should establish who the respondent is in
+relation to the fishery, how long they have been involved, where they
+fish or harvest, and how much effort they normally expend. In a
+community fishery this may be done conversationally. In an online survey
+it may be asked through short, fixed questions.
+
+At minimum, the survey should record the respondent's role, year they
+started fishing or harvesting, years of experience, main fishing area,
+main gear or method, typical number of fishing or harvesting days per
+year, and typical number of hours per fishing or harvesting day. Where
+appropriate and ethical, age and gender can be collected to assess
+whether the respondent pool is diverse.
+
+## Current year best catch
+
+The current-year question is mandatory. It anchors the assessment in
+present conditions and provides the comparison point for historical best
+catches.
+
+A general version is:
+
+*Thinking about the current year, what was your best fishing or
+harvesting day for \[species or fishery\]? How much did you catch,
+collect, see, hook, or encounter on that day? How many hours did you
+fish or harvest? What gear or method did you use? Where did this
+happen?*
+
+## Best-ever catch
+
+The best-ever question reconstructs historical peaks. It should be asked
+separately for each major metric. The best day for catch amount may not
+be the same as the best day for size.
+
+A general version is:
+
+*Thinking across your whole fishing or harvesting life, what was your
+best ever day for \[species or fishery\]? What year was this? How much
+did you catch, collect, see, hook, or encounter? How many hours did you
+fish or harvest? What gear or method did you use? Where did this
+happen?*
+
+## First-year catch
+
+The first-year question is especially valuable for shifting baseline
+analysis. It links each respondent's starting point to a catch amount
+and year.
+
+A general version is:
+
+*Thinking back to the year you started fishing or harvesting \[species
+or fishery\], what was your best catch or best fishing/harvesting day in
+that first year or early period? What year was this, how much did you
+catch, and how many hours did you fish or harvest?*
+
+This question may be difficult for some respondents, especially if they
+started fishing as children. If they cannot remember the exact first
+year, an early-career period can be used, but the uncertainty should be
+recorded.
+
+## Size questions
+
+For single-species fisheries, or fisheries where body size is central to
+value, ecology, or management, BECCA should include a size metric. Size
+can be reported as weight, length, shell length, carapace width, market
+grade, or another locally meaningful measure.
+
+The question should make clear that the largest individual may come from
+a different year than the largest catch. For example:
+
+*Thinking across your whole fishing life, what was the largest
+\[species\] you ever caught or harvested in this area? What year was
+this, how large was it, and was that size measured, weighed, estimated,
+sold at market, photographed, or remembered visually?*

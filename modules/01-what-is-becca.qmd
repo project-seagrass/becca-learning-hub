@@ -1,0 +1,96 @@
+---
+title: "What is BECCA?"
+---
+
+## Definition
+
+A Best Catch Assessment (BECCA) is a standardised local knowledge survey
+that asks fishers or harvesters to report numeric information about
+their best remembered catch or fishing events. A BECCA records the
+amount caught or encountered, the year in which the event occurred, the
+effort required, the fishing method used, and the place or fishing area.
+
+At its simplest, BECCA asks four linked questions. What was your best
+catch or best fishing day in the current year? What was your best catch
+or best fishing day in the best year of your fishing life? What was your
+best catch or best fishing day in the year that you started fishing? How
+many hours, people, gears, traps, nets, or other effort units were
+involved?
+
+The most important rule is that each answer must include both **a
+number** and **a year**. The number might be fish caught, fish seen,
+shots, eats, hookups, kilograms, pounds, baskets, sacks, bags, bushels,
+buckets, shells, crabs, or another locally meaningful unit. The year
+might be 1989, 2003, 2025, or any other year the respondent can
+remember. Without both a number and a year, the response cannot be used
+to reconstruct change through time.
+
+A useful BECCA response is not "there were lots of fish when I was
+young". A useful BECCA response is "in 1989, my best day was 65 fish in
+about six hours". The first statement gives context. The second creates
+data.
+
+## The core BECCA idea
+
+Fishers often remember exceptional fishing events. They remember the day
+they caught more than usual, the biggest fish, the most productive tide,
+the best season, the year when fishing was clearly better than it is
+now, or the place where fishing suddenly changed. These memories are not
+random stories. They often anchor long-term experience and can reveal
+how fisheries have changed across decades.
+
+BECCA takes these memories and records them in a structured way. Instead
+of asking only whether fishing has become "better" or "worse", BECCA
+asks how many were caught, how large they were, how many hours were
+spent fishing, what gear was used, and what year the event happened.
+This makes it possible to calculate effort-standardised indicators such
+as fish per hour, kilograms per hour, baskets per person-hour, trap
+catch per day, shots per standard fishing day, eats per unit effort,
+hookups per unit effort, or maximum size by year.
+
+The approach is grounded in a simple proposition: a fisher's best
+remembered fishing experience can act as an index of the underlying
+abundance and size structure of a fishery at that point in time.
+Individual memories can be imperfect, but when many memories are
+collected consistently, standardised by effort, and aggregated
+carefully, they can reveal long-term population signals that formal
+monitoring may have missed^11^.
+
+## What BECCA is useful for
+
+BECCA is most useful when a fishery has little or no formal long-term
+data. It can help communities and managers understand whether current
+catches are lower than remembered historical catches, whether fishers
+now need to work longer for the same catch, whether the size of fish or
+invertebrates has changed, whether different places show different
+trajectories, and whether local knowledge points to management concerns
+that need further investigation.
+
+BECCA can be applied to recreational fisheries, commercial fisheries,
+small-scale fisheries, subsistence fisheries, gleaning, invertebrate
+harvesting, diving fisheries, trap fisheries, handline fisheries, net
+fisheries, and multi-species fisheries. Its first named applications
+have been in South Florida bonefish and tarpon fisheries, but the logic
+is much broader. Previous studies have used closely related best-catch
+questioning in the Gulf of California, the Red Sea, Brazil, the
+Philippines, Portugal, and other data-poor fisheries, even where the
+method was not yet named as BECCA^4-10^.
+
+## What BECCA is not
+
+BECCA is not a conventional stock assessment. It does not directly
+estimate total biomass, recruitment, fishing mortality, or maximum
+sustainable yield unless combined with other data and models. It does
+not remove the need for landing surveys, biological monitoring,
+participatory mapping, underwater surveys, fisher logbooks, market
+surveys, or ecological research.
+
+BECCA is also not a casual perception survey. It should not rely only on
+vague statements such as "there used to be more fish" or "the fish were
+bigger before". These statements are important context, but BECCA only
+works when responses are converted into numbers linked to years and
+fishing effort. It is therefore best understood as a structured,
+quantitative local knowledge method. It generates indicators of change,
+not absolute certainty.
+
+![](media/image5.jpeg)

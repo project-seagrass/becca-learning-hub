@@ -1,0 +1,98 @@
+---
+title: "Wisdom of Crowds: who should be interviewed?"
+---
+
+## Diversity is the design principle
+
+The most important sampling principle in BECCA is diversity. A good
+respondent pool should include people with different levels of
+experience, different ages, different gears, different fishing areas,
+different roles, and different relationships to the fishery.
+
+Older and more experienced fishers are essential because they extend the
+dataset backwards. They may remember conditions before formal monitoring
+began, before major habitat change, before market expansion, before new
+regulations, or before a fishery became commercialised or recreationally
+important. Their knowledge helps recover historical baselines that would
+otherwise disappear.
+
+Younger and newer fishers are equally essential because they anchor the
+present. They provide information on current catches, current effort,
+current fishing areas, and recent change. They also prevent the dataset
+from becoming overly weighted toward the past. If a BECCA only
+interviews older experts, it may produce a rich historical story but a
+weak picture of current fishing. If it only interviews current active
+fishers, it may describe the present well but miss the scale of
+historical change. A strong BECCA needs both.
+
+This is the central Wisdom of Crowds logic. The aim is not to identify
+one perfect expert. It is to combine many partial views into a stronger
+collective estimate. In the bonefish optimisation work, small but
+diverse respondent groups performed as well as, and in some cases better
+than, homogeneous groups of highly experienced fishers. This supports a
+practical rule: prioritise diversity before prestige ^14^.
+
+## Why not only interview experts?
+
+Expert fishers matter, but "expert-only" sampling can introduce bias.
+Highly experienced fishers may cluster in older age groups, use
+particular gears, fish particular places, or represent a specific social
+group. They may remember the past extremely well, but they may not
+represent current fishing patterns. Conversely, newer fishers may not
+know what the fishery was like decades ago, but they may be the best
+source of information on current catch rates, present-day effort, and
+recent changes in behaviour.
+
+A BECCA should therefore seek a respondent pool that spans as many years
+as possible. The ideal dataset includes people who began fishing in
+different decades. Someone who started fishing in 1975 helps reconstruct
+the 1970s and 1980s. Someone who started in 1995 helps reconstruct the
+1990s and 2000s. Someone who started in 2020 helps anchor the current
+baseline. Together, these respondents create a time series that no
+single fisher can provide alone.
+
+## Practical sampling guidance
+
+There is no universal sample size that works for every fishery. A small
+village fishery may only have 20 active harvesters. A regional
+recreational fishery may have hundreds or thousands of participants. The
+practical goal is to interview enough people to capture the diversity of
+the fishery and enough people within each important area to avoid one or
+two voices dominating the pattern.
+
+For a very small fishery, the best strategy may be to interview as many
+active and former fishers as possible. For a small community fishery, 20
+to 40 respondents may provide a useful first assessment. For a
+medium-sized fishery, 50 to 75 respondents is a stronger target. For a
+large regional fishery, 75 or more respondents is preferable, especially
+if the fishery is divided across multiple regions. Where spatial
+comparisons are important, a useful working target is at least 20 to 25
+respondents per important region, while recognising that this may not
+always be possible.
+
+Recruitment can combine open community invitations, fisher association
+networks, landing site interviews, guide networks, women's harvesting
+groups, market contacts, local partner recommendations, snowball
+referrals, and public survey links. The final report should always
+explain how respondents were recruited and which groups may be
+underrepresented.
+
+![](media/image7.jpeg)
+
+**Key takeaway:**
+
+As a practical guide:
+
+-   **Very small fishery**: interview as many active and former fishers
+    as possible.
+
+-   **Small community fishery**: aim for 20 to 40 respondents if
+    possible.
+
+-   **Medium fishery**: aim for 50 to 75 respondents.
+
+-   **Large regional fishery**: aim for at least 75 respondents, and
+    more where possible.
+
+-   **Spatially divided fishery**: aim for at least 20 to 25 respondents
+    per important area, where feasible.

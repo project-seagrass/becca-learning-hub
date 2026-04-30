@@ -1,0 +1,186 @@
+---
+title: "Choosing the right catch metric"
+---
+
+[]The metric should come from the fishery
+
+Before designing the questionnaire, the field team should ask local
+partners and fishers a simple question: "When people talk about a good
+fishing or harvesting day here, what unit do they use?" The answer will
+often reveal the best BECCA metric.
+
+If people say "we count the number of fish", use number of fish. If they
+say "we sell by basket", record baskets and convert them. If they say
+"we remember the biggest one", include a size metric. If they say "we
+rarely land the fish, but we know how many shots or hookups we had", use
+encounter metrics. If they say "the catch depends on how many traps were
+soaked overnight", use catch per trap per soak or catch per trap per
+day.
+
+The table below provides guidance, but it should not be treated as a
+fixed template. BECCA should be adapted to local fishing practice.
+
+**Table 1. Types of fishery with possible best catch metrics.**
+
+  --------------------------------------------------------------------------------
+  **Fishery type**    **Possible BECCA      **Effort       **Practical note**
+                      metric**              variable**     
+  ------------------- --------------------- -------------- -----------------------
+  Recreational sight  shots, follows, eats, hours fished   Useful where fish are
+  fishing             hookups, landed fish, per angler     not always landed.
+                      maximum size                         Early encounter metrics
+                                                           may reflect
+                                                           availability better
+                                                           than landed catch.
+
+  Recreational bait   bites, hookups,       hours fished   Separate landed,
+  or lure fishing     landed fish, released per angler     released, and retained
+                      fish, kept fish,                     fish where possible.
+                      maximum size                         
+
+  Catch-and-release   encounters, bites,    hours fished   Do not rely only on
+  fisheries           hookups, landed fish, per angler     harvest because harvest
+                      fish length or weight                may be zero.
+
+  Small-scale         number of fish,       hours fished   Record hook number if
+  handline fishery    weight, baskets,      per fisher or  this strongly affects
+                      boxes, bundles        crew; number   catch.
+                                            of hooks       
+
+  Net fishery         number of fish,       soak time, net Gear details strongly
+                      weight, baskets,      length, mesh   affect catch.
+                      boxes                 size, hours    
+                                            fished         
+
+  Seine or drag net   weight, number of     number of      Catch may be
+  fishery             fish, baskets, boxes  hauls, hours,  standardised per haul
+                                            crew size, net as well as per hour.
+                                            size           
+
+  Trap, pot, or       number of             number of      CPUE may be catch per
+  basket fishery      individuals, weight,  traps, soak    trap per day.
+                      baskets               time, hours    
+                                            checking traps 
+
+  Fish fence or weir  number of fish,       days set, tide Effort may need a
+  fishery             weight, baskets,      cycles, fence  locally defined unit.
+                      sacks                 length, number 
+                                            of fishers     
+
+  Gleaning            buckets, bags, bowls, hours gleaned  Record whether catch is
+                      number of             per person     individual, household,
+                      individuals, weight                  or group catch.
+
+  Shellfish or        number of             hours          Size metrics may be
+  invertebrate        individuals, weight,  harvested per  shell length, carapace
+  harvesting          bags, buckets,        person; area   width, or market grade.
+                      baskets               harvested if   
+                                            known          
+
+  Diving fishery      number of             dive hours,    Separate boat time from
+                      individuals, weight,  number of      underwater search time
+                      sacks, bags           divers, number if possible.
+                                            of dives       
+
+  Multi-species       total catch weight,   hours fished,  Record species groups
+  artisanal fishery   species-specific      gear, crew     clearly.
+                      catch, baskets,       size           
+                      boxes, sacks                         
+  --------------------------------------------------------------------------------
+
+## Gleaning and invertebrate harvesting
+
+In gleaning and invertebrate harvesting, catch is often remembered in
+containers rather than formal weights^16,17^. A female gleaner may say
+that her best day was "four buckets of cockles", "two bags of clams", or
+"a basket of crabs". These are valid BECCA responses if the unit is
+documented clearly.
+
+A hypothetical BECCA in a coastal invertebrate gleaning community might
+begin with a short conversation about how people usually describe a good
+collecting day. If most harvesters talk in buckets, the survey should
+use buckets first and then ask how large the bucket is, whether it is a
+household bucket or market bucket, and approximately how many
+invertebrates or kilograms fit in one full bucket. The interviewer might
+also ask whether the bucket is filled to the top, whether mud and shell
+are included, and whether the same bucket is used by most people.
+
+The best current-year question might be:
+
+*"Thinking about this year, what was your best day collecting cockles on
+the flats? How many buckets did you collect, how many hours were you
+out, and how many people were collecting with you?"*
+
+The historical question might be:
+
+*"Thinking back across your collecting life, what was the best day you
+ever had? What year was that, how many buckets did you collect, and how
+many hours were you collecting?"*
+
+In this example, the analysis could produce buckets per person-hour,
+estimated kilograms per person-hour, or estimated individuals per
+person-hour. If shell size is important, a size question could ask about
+the largest shell or the typical size class that people remember from
+different periods.
+
+## Artisanal and small-scale fisheries
+
+In artisanal and small-scale fisheries, catch units may vary by gear,
+species, community, and market. One community may describe catch by
+number of fish, another by boxes, another by baskets, and another by
+sacks or bushels ^7^. The survey should accept the locally meaningful
+unit and then document it carefully.
+
+A hypothetical BECCA in a small-scale handline fishery might ask fishers
+about their best day catching reef fish. A fisher might report that in
+1998, their boat caught six baskets in a day using handlines on the
+outer reef. The interviewer would then ask how many people were on the
+boat, how many hours they fished, how many hooks were used if known,
+what size basket was used, and whether six baskets represented the whole
+boat or the fisher's individual share. The same respondent would then be
+asked about their best day in the current year using the same species
+group and method.
+
+A hypothetical BECCA in a trap fishery would need a different effort
+measure. If the catch depends mainly on the number of traps and soak
+time, the core indicator may be catch per trap per day rather than catch
+per hour.
+
+The question might ask:
+
+*"In your best trap fishing day this year, how many crabs did you catch,
+how many traps were set, and how long had they been soaking?"*
+
+A historical version would ask for the same information in the
+respondent's best ever year.
+
+A hypothetical BECCA for a fish fence or weir fishery may need to use
+tide cycles or days set as the effort unit. If a fisher says the best
+catch came after a spring tide, the interviewer should record the number
+of tide cycles, the number of people involved, and whether the catch was
+from one fence, one section of fence, or a shared community structure.
+
+## Recreational fisheries
+
+In some recreational fisheries, especially sight-based fisheries, landed
+catch may be a poor indicator of fish abundance. A fishing day involves
+several stages: finding fish, having an opportunity to cast, getting a
+follow, getting an eat, hooking the fish, landing the fish, and then
+releasing or keeping it ^18^. Each stage can fail for reasons unrelated
+to abundance. Weather, visibility, fisher skill, line breakage,
+handling, or fish behaviour may determine whether a fish is landed ^14^.
+
+For this reason, BECCA can use earlier-stage interaction metrics. In
+South Florida, respondents were asked separately about their best day in
+terms of shots, and size^3^. The survey made clear that the best day for
+shots and the largest fish could all fall in different years. This
+matters because each metric captures a different part of the fishing
+process. Shots represent fish opportunities to cast, which occurs before
+landing and can therefore be less affected by fight duration, gear
+failure, or handling than landed catch alone.
+
+For recreational fisheries, the field team should work with fishers to
+identify the interaction metrics that are widely understood. A tarpon
+fisher may speak naturally about eats and hookups. A bonefish fisher may
+speak about sightings, shots, or follows. A lure fisher may speak about
+bites and landed fish. The words should come from the fishery.

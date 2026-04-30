@@ -1,0 +1,178 @@
+---
+title: "Data quality, validation and ethics"
+---
+
+BECCA relies on memory, so uncertainty should be expected and managed
+rather than ignored^3,11,14^. Respondents may round numbers, be unsure
+of the exact year, report group catches as individual catches, or use
+local units that vary between people. Gear may have changed through
+time. Access, regulations, markets, and habitat conditions may also have
+changed. These are not reasons to avoid BECCA, but, they are reasons to
+design it carefully.
+
+A strong BECCA records respondent confidence, asks why the event is
+remembered, distinguishes individual from group catch, records the gear
+used, records the hours fished or harvested, and documents whether the
+unit is exact, estimated, or locally converted. Responses can then be
+assigned simple quality flags. A high-quality response includes a clear
+number, year, effort, gear, unit, and area. A lower-quality response may
+be missing effort or have an uncertain unit. Responses without a number
+or year should not be used in the main time-series analysis.
+
+Community validation is recommended. Results should be returned to
+fishers and harvesters before final reporting where possible. This can
+happen through community meetings, fisher association meetings, small
+focus groups, local partner workshops, online sessions, printed
+summaries, or local language briefings. The purpose is not to check
+every number. It is to ask whether the overall pattern makes sense,
+whether important context is missing, whether any groups were
+underrepresented, and whether the interpretation is fair.
+
+Good validation discussions ask whether the trends match local
+experience, whether there are years that look wrong, whether storms,
+regulations, market changes, access changes, habitat loss, or gear
+changes explain the pattern, and what actions should follow.
+
+## Ethics and community safeguards
+
+BECCA should never be treated as a way to extract knowledge from
+communities without returning value. Fishers and harvesters are
+contributing information that may relate to livelihoods, food security,
+cultural practice, identity, access rights, and management decisions.
+They should understand why the information is being collected, how it
+will be used, who will see it, and how results will be returned.
+
+Catch information can be sensitive. It may reveal fishing grounds,
+high-value species, illegal activity, customary practices, or livelihood
+dependence. The survey should avoid collecting personally identifiable
+sensitive information unless it is necessary and consented.
+
+Where possible:
+
+-   anonymise individual responses;
+
+-   report results at community or regional level;
+
+-   avoid publishing exact fishing spots without permission;
+
+-   store data securely;
+
+-   explain who will have access;
+
+-   avoid using results to punish individual fishers; and
+
+-   discuss risks with local partners before publication.
+
+Where BECCA is used with Indigenous Peoples or customary communities,
+the process should follow local protocols and principles of free, prior,
+and informed consent. Communities should be involved in deciding what is
+asked, how data are stored, who owns the data, who can access the data,
+and how results are shared.
+
+BECCA can reveal decline. Decline may lead to calls for restrictions,
+closures, gear changes, habitat protection, or restoration. These
+decisions can affect livelihoods. Findings should therefore be discussed
+with communities before being converted into policy recommendations. The
+method should support fairer management, not top-down control based on
+extracted knowledge.
+
+## Sample ethics and consent form
+
+[]Participant information sheet
+
+**Project title:** Best Catch Assessment for
+\[fishery/species/community\]
+
+**Who is carrying out this work?**
+
+This assessment is being carried out by \[organisation/local
+partner/research team\] in collaboration with \[community/fisher
+group/management partner\].
+
+**Why are we doing this assessment?**
+
+Many fisheries do not have long-term catch records, but fishers and
+harvesters often hold detailed knowledge of how catches have changed.
+This assessment asks about best catches now and in the past so that we
+can better understand long-term change in \[species/fishery\].
+
+**What will I be asked?**
+
+You will be asked about your fishing or harvesting experience, the year
+you started, your best catch or best fishing day in the current year,
+your best catch or best fishing day in the past, the amount caught or
+encountered, the year it happened, the effort involved, the fishing
+method used, and the general area. The interview should take
+approximately \[10--20\] minutes.
+
+**Do I have to take part?**
+
+No. Taking part is voluntary. You can choose not to answer any question,
+and you can stop the interview at any time.
+
+**Will my answers be anonymous?**
+
+Your individual answers will not be reported with your name. Results
+will be combined with responses from other fishers and reported as
+community-level or regional patterns. If we want to use your name, quote
+you directly, or show a photograph of you, we will ask for separate
+permission.
+
+**Are there any risks?**
+
+Some catch or location information may be sensitive. We will not publish
+exact fishing locations or individual catch records unless this has been
+agreed. If any question makes you uncomfortable, you do not have to
+answer it.
+
+**What are the benefits?**
+
+The assessment will help document local knowledge and may support better
+understanding, monitoring, and management of the fishery. Results will
+be shared back with \[community/fisher group/local partner\] in
+\[meeting/report/briefing/dashboard\].
+
+**Who will use the information?**
+
+The information may be used by \[community/local partner/research
+team/management agency\] to understand fishery change. It may also be
+included in reports, presentations, or publications, but individual
+respondents will not be named unless they have given explicit
+permission.
+
+**Who can I contact?**
+
+If you have questions, contact \[name, organisation, phone/email\].
+
+[]Consent statement
+
+Before starting the survey, the interviewer should read or summarise the
+following statement:
+
+I have been told what this assessment is about. I understand that taking
+part is voluntary, that I can skip questions, and that I can stop at any
+time. I understand that my answers will be combined with answers from
+other fishers and that my name will not be used in reports unless I give
+separate permission. I agree to take part in this Best Catch Assessment.
+
+Record consent as verbal or written depending on local ethics
+requirements.
+
+**Participant agrees to take part:** Yes / No
+
+**Consent type:** Verbal / Written
+
+**Date:Interviewer:Participant name or anonymous code:**
+
+**Optional permissions**
+
+These should be asked separately from the main consent.
+
+**May we contact you again to check results or invite you to a community
+feedback meeting?** Yes / No
+
+**May we use anonymous quotes from your interview?** Yes / No
+
+**May we take or use a photograph of you for the report?** Yes / No
+
+**May we record the interview for note-checking only?** Yes / No

@@ -1,0 +1,87 @@
+---
+title: "How to calculate BECCA indicators"
+---
+
+## Catch per unit effort
+
+The basic BECCA calculation is catch-per-unit-effort. In the simplest
+case:
+
+**Catch per hour = catch amount / hours fished or harvested**
+
+If a fisher caught 40 fish in five hours, the catch rate is eight fish
+per hour. If a gleaner collected three baskets in six hours, the catch
+rate is 0.5 baskets per hour. If an angler had 18 hookups in four hours,
+the hookup rate is 4.5 hookups per hour.
+
+## Standardising to a fishing day
+
+It is often easier to communicate results as catch per standard fishing
+day. This is calculated by dividing catch by reported hours and
+multiplying by a locally defined standard day.
+
+**Catch per standard day = (catch amount / hours fished) × standard day
+length**
+
+In the bonefish BECCA, sightings were standardised by dividing reported
+sightings by each respondent's reported hours per trip and multiplying
+by the average fishing day length across all respondents. This produced
+sightings per standardised fishing day. The same logic can be used for
+eats per day, hookups per day, fish per day, baskets per day, or
+kilograms per day.
+
+The length of a standard day should be chosen locally and reported
+clearly. It might be six hours, 7.5 hours, eight hours, or another
+locally meaningful value.
+
+## Person-hours and group catch
+
+Many fisheries involve group effort. If four people collect eight
+buckets in four hours, the catch should not be treated as one person
+collecting eight buckets. Total effort is four people multiplied by four
+hours, or 16 person-hours. The catch rate is therefore 0.5 buckets per
+person-hour.
+
+This is especially important for gleaning, seining, netting, crew-based
+fishing, fish fences, and household harvesting. Every BECCA should ask
+whether the reported catch was for one person, one boat, one crew, one
+household, or a larger group.
+
+## Gear-specific effort
+
+In some fisheries, hours alone may not be enough. A trap fisher using
+100 traps is not comparable to a trap fisher using 10 traps. A net
+fisher using a 500 m net is not comparable to one using a 50 m net. A
+fisher using 20 hooks is not comparable to one using two hooks.
+
+Where gear strongly affects catch, BECCA should record gear effort. The
+analysis may then use catch per trap per day, catch per hook per hour,
+catch per metre of net per soak, catch per haul, catch per tide cycle,
+or catch per diver-hour. This does not mean every BECCA needs complex
+effort metrics. It means the field team should understand the fishery
+well enough to choose the effort measure that makes comparisons fair.
+
+## Size indicators
+
+Size is usually not divided by effort. Instead, size is plotted by year,
+decade, region, or respondent cohort. Size metrics can include largest
+fish weight, largest fish length, shell size, carapace width, or market
+grade. In the bonefish and tarpon BECCAs, maximum size was treated
+separately from encounter metrics because the largest fish reported by a
+respondent could occur in a different year from their best encounter
+day.
+
+## Aggregating responses
+
+After effort-standardising individual responses, the data can be grouped
+by year, decade, region, species, gear type, fishing area, respondent
+group, or management zone. For each group, the analysis should report
+the number of respondents contributing to the estimate. Means, medians,
+confidence intervals, and uncertainty ranges can then be calculated
+depending on the sample size and technical capacity of the team.
+
+For community-facing reports, simple visualisations are often more
+useful than complex statistical outputs. A line showing catch per
+standard day through time, with the number of respondents contributing
+to each decade, can be more powerful than a technical model that
+communities cannot interpret.

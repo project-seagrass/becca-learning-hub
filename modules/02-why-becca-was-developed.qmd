@@ -1,0 +1,76 @@
+---
+title: "Why BECCA was developed"
+---
+
+## The data-poor fisheries problem
+
+Effective fisheries management usually needs information on catch,
+effort, abundance, size, species composition, fishing location, gear
+type, and change through time. In many places, this information is
+missing. Fisheries may be too dispersed, informal, small-scale, remote,
+or under-resourced to support conventional monitoring. In some
+recreational and catch-and-release fisheries, fish are not landed, which
+means harvest records are not available. In gleaning and subsistence
+fisheries, catches may be eaten at home, shared, bartered, or traded
+locally, so they never enter formal reporting systems.
+
+This creates a major management problem. Without information, fisheries
+decline can go unnoticed. Local communities may observe change long
+before it appears in official records, but their knowledge is often not
+collected in a form that can influence decisions. BECCA was developed to
+address this gap.
+
+## The original development pathway
+
+BECCA was first developed through work on flats fisheries in South
+Florida, especially bonefish, and later adapted to tarpon and permit.
+The original assessment was designed to create a standardised way of
+using local angler and guide knowledge to reconstruct long-term trends
+in fisheries where conventional data were limited. This development
+process had five stages.
+
+The first stage was a review of the wider evidence base^1^. This review
+showed that Indigenous and local knowledge is increasingly recognised in
+fisheries science, but that most studies still collect it qualitatively.
+Few studies convert local knowledge into numeric indicators that can be
+analysed alongside fisheries data or used directly in assessment and
+management^1^. The same review identified a smaller group of studies
+that had asked fishers to recall best catches, largest individuals,
+catch rates, or past fishing conditions, creating a foundation for a
+more standardised BECCA protocol.
+
+The second stage was information optimisation. Rather than assuming that
+only the oldest fishers or recognised experts should be interviewed, the
+project tested whether smaller but diverse groups could produce reliable
+estimates of fishery trends. This work supported a Wisdom of Crowds
+approach^12,13^. Small, diverse groups produced estimates of fishery
+quality that were similar to those from larger groups and from more
+experienced or homogeneous groups. In the bonefish optimisation work, a
+subsample of 66 respondents captured approximately 75% of unique
+responses, and even groups as small as 20 respondents produced
+relatively robust estimates in that specific fishery^14^.
+
+The third stage was protocol design and beta testing. Questions were
+refined with recreational anglers and guides to ensure that the survey
+was understandable, not too long, and capable of producing usable
+numbers. The target survey length was approximately 10 to 15 minutes.
+Testing showed that questions needed to use language that fishers
+already use, such as sightings, shots, eats, hookups, and size, rather
+than forcing all fisheries into the language of conventional landing
+statistics.
+
+The fourth stage was implementation. The approach was implemented for
+bonefish and later adapted for tarpon. In the bonefish assessment,
+fishers reported their best fishing days in terms of sightings and size.
+These data were standardised into sightings per unit effort and compared
+with independent tournament records, showing strong alignment with
+existing fisheries-dependent evidence^3^. In the tarpon assessment, the
+method was expanded beyond landed catch into encounter metrics such as
+eats and hookups, demonstrating that BECCA can be adapted for
+catch-and-release fisheries where fish are not necessarily harvested.
+
+The fifth stage was manual development. This handbook builds from that
+process but broadens the method beyond flats fisheries so that it can be
+adapted for recreational, small-scale, subsistence, gleaning,
+invertebrate, trap, net, and traditional fisheries across a range of
+different habitats and contexts.

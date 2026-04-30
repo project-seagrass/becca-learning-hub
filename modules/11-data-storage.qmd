@@ -1,0 +1,126 @@
+---
+title: "Data storage"
+---
+
+A clear data structure at the start will make future BECCA analysis much easier. The main recommendation is to store the data in **long format** rather than wide format. In long format, each row represents one catch memory or catch event, rather than one respondent.
+
+A BECCA dataset should ideally include four linked tables: a respondent table, a catch-event table, a local unit conversion table, and a location or region table. For simple projects, these can be separate sheets in one spreadsheet.
+
+## Respondent table
+
+| Column name | Description | Example |
+|---|---|---|
+| respondent_id | Unique anonymous ID for each respondent | R001 |
+| interview_id | Unique ID for the interview | INT001 |
+| interview_date | Date of interview | 2026-05-12 |
+| interviewer | Interviewer name or code | AB |
+| community | Community, village, landing site, or respondent base | Village A |
+| respondent_role | Main role in fishery | gleaner |
+| role_other | Other role, if relevant | trader-fisher |
+| target_fishery | Fishery discussed | cockle gleaning |
+| target_species_local | Local species name | local cockle name |
+| target_species_scientific | Scientific name, if known | Species sp. |
+| year_started | Year respondent started fishing/harvesting | 1998 |
+| years_experience | Years of experience | 28 |
+| age | Respondent age, if collected | 52 |
+| gender | Gender, if collected and appropriate | woman |
+| main_purpose | Food, income, recreation, guiding, mixed | food and sale |
+| typical_days_per_year | Typical number of fishing/harvesting days per year | 120 |
+| typical_hours_per_day | Typical hours per fishing/harvesting day | 4.5 |
+| main_gear | Main gear or method | hand collection |
+| main_area | Main fishing or harvesting area | North flats |
+| consent_given | Consent recorded | yes |
+| follow_up_permission | Permission to contact again | yes |
+| notes | Non-sensitive notes | experienced collector |
+
+## Catch-event table
+
+| Column name | Description | Example |
+|---|---|---|
+| event_id | Unique ID for each catch event | E0001 |
+| respondent_id | Links to respondent table | R001 |
+| event_type | current_year_best, best_ever, first_year, largest_ever, current_year_largest | best_ever |
+| metric_type | What was measured | buckets |
+| metric_category | catch, encounter, size, effort, composition | catch |
+| species_or_group | Species or group being reported | cockles |
+| event_year | Year the catch event happened | 2009 |
+| event_year_precision | exact, approximate, decade, unknown | exact |
+| catch_amount_raw | Original number reported | 4 |
+| catch_unit_raw | Original unit reported | buckets |
+| catch_amount_standardised | Converted amount, if possible | 48 |
+| standardised_unit | Standard unit after conversion | kg |
+| conversion_used | Was a local unit conversion used? | yes |
+| conversion_id | Links to unit conversion table | U002 |
+| hours_fished | Hours fished or harvested | 5 |
+| people_involved | Number of people involved | 2 |
+| person_hours | people_involved × hours_fished | 10 |
+| gear_or_method | Gear or method used | hand collection |
+| gear_local_name | Local gear or method name | local term |
+| effort_amount | Additional effort amount, if relevant | 12 |
+| effort_unit | Additional effort unit | traps |
+| soak_time_hours | Soak time for traps/nets, if relevant | NA |
+| area_reported | Area name given by respondent | North flats |
+| area_id | Links to region/location table | A01 |
+| individual_or_group_catch | individual, boat, crew, household, group, shared gear | household |
+| confidence | very confident, fairly confident, unsure | fairly confident |
+| reason_remembered | Why respondent remembers event | first very large harvest |
+| sensitive_location | Does this include sensitive location info? | no |
+| quality_flag | A, B, C, D, or E | A |
+| notes | Any extra explanation | spring tide |
+
+## Local unit conversion table
+
+| Column name | Description | Example |
+|---|---|---|
+| conversion_id | Unique ID for conversion | U002 |
+| community | Community or location where unit applies | Village A |
+| local_unit | Local unit name | bucket |
+| unit_description | Description of the unit | 10-litre household bucket, filled to rim |
+| species_or_group | Species or group conversion applies to | cockles |
+| number_per_unit | Approximate individuals per unit | 150 |
+| weight_per_unit | Approximate weight per unit | 12 |
+| weight_unit | kg or lb | kg |
+| conversion_source | Who provided conversion | three harvesters and market check |
+| conversion_checked | Was it checked directly? | yes |
+| photo_id | Photo reference, if photographed | IMG_023 |
+| uncertainty | low, medium, high | medium |
+| notes | Notes on variation | smaller shells increase count per bucket |
+
+## Location or region table
+
+| Column name | Description | Example |
+|---|---|---|
+| area_id | Unique location or region ID | A01 |
+| area_name | Standard area name | North flats |
+| local_area_name | Local place name | local term |
+| area_type | village, reef, bay, region, landing site, management zone | harvesting area |
+| broader_region | Larger region if relevant | District 1 |
+| sensitive | Should exact location be protected? | yes |
+| latitude | Optional approximate latitude | NA |
+| longitude | Optional approximate longitude | NA |
+| geometry_available | Is a boundary or spatial file available? | no |
+| notes | Any notes | do not publish exact location |
+
+## Recommended controlled vocabulary
+
+| Field | Recommended values |
+|---|---|
+| event_type | current_year_best; best_ever; first_year; largest_ever; current_year_largest |
+| metric_category | catch; encounter; size; effort; composition |
+| metric_type | individuals; kg; lb; baskets; bags; buckets; sacks; boxes; bushels; sightings; shots; follows; bites; eats; hookups; landed_fish; shell_length; carapace_width |
+| confidence | very_confident; fairly_confident; unsure |
+| event_year_precision | exact; approximate; decade; unknown |
+| individual_or_group_catch | individual; boat; crew; household; group; shared_gear |
+| quality_flag | A; B; C; D; E |
+| consent_given | yes; no |
+| sensitive_location | yes; no |
+
+## Example long-format catch-event data
+
+| event_id | respondent_id | event_type | event_year | metric_type | catch_amount_raw | catch_unit_raw | hours_fished | people_involved | gear_or_method | area_reported | confidence | quality_flag |
+|---|---|---|---:|---|---:|---|---:|---:|---|---|---|---|
+| E001 | R001 | current_year_best | 2026 | buckets | 2 | buckets | 4 | 1 | hand collection | North flats | very_confident | A |
+| E002 | R001 | best_ever | 2009 | buckets | 4 | buckets | 5 | 2 | hand collection | North flats | fairly_confident | A |
+| E003 | R001 | first_year | 1998 | buckets | 3 | buckets | 4 | 2 | hand collection | North flats | unsure | B |
+| E004 | R002 | current_year_best | 2026 | hookups | 6 | hookups | 7 | 1 | fly fishing | Bay region | very_confident | A |
+| E005 | R002 | best_ever | 2012 | hookups | 18 | hookups | 8 | 1 | fly fishing | Bay region | very_confident | A |

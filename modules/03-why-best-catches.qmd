@@ -1,0 +1,50 @@
+---
+title: "Why best catches?"
+---
+
+## Why ask about best catches?
+
+A common concern is whether people can accurately remember past catches.
+This concern is valid, but it needs to be treated carefully. People may
+struggle to remember routine days, average catches, or exact sequences
+of ordinary events. However, memorable personal events are often
+recalled more clearly than routine experiences, particularly when they
+are emotionally significant, unusual, or repeatedly retold^11,15^.
+
+Fishing is full of these memorable events. The biggest fish, the fullest
+net, the best tide, the heaviest basket, or the day when "everything
+came together" often becomes part of a fisher's personal history. BECCA
+deliberately uses this cognitive strength. It asks about memorable high
+points, not vague averages from the distant past.
+
+This does not mean that all memories are perfect. A respondent may round
+numbers, confuse dates, or report an event that was influenced by
+unusual conditions. BECCA manages this uncertainty by asking many
+respondents the same structured questions, collecting effort data,
+recording confidence, aggregating responses, and returning results to
+the community for validation.
+
+## Previous uses of best-catch approaches
+
+Although BECCA is newly named and standardised here, best-catch style
+questioning has a strong history in peer-reviewed fisheries research.
+Sáenz-Arroyo et al. used fishers' anecdotes and historical information
+to reassess the status of Gulf grouper in the Gulf of California^4,5^,
+helping to expose shifting baselines and historical decline.
+Tesfamichael et al. used fishers' knowledge from the Red Sea to generate
+long time series of catch rates^7^, including locally meaningful units
+such as kilograms, boxes, sacks, and bundles. Bender et al. combined
+local ecological knowledge, landing data, and underwater visual census
+to reveal overexploitation in a multi-gear artisanal fishery in
+Brazil^6^. Lavides et al. used fishers' knowledge in the Philippines to
+infer coral reef fish disappearances^8^. Leduc et al. used local
+ecological knowledge to support conservation assessments for data-poor
+sharks in Brazil^9^. Braga et al. used fishers' knowledge to reconstruct
+historical changes in Allis shad in the Minho River between Spain and
+Portugal^10^.
+
+These studies differ in design, species, geography, and terminology, but
+they share a central insight. Fishers can provide quantitative
+historical information when they are asked questions that allow them to
+answer numerically. BECCA takes this wider practice and turns it into a
+standardised, practical protocol.

@@ -1,0 +1,31 @@
+---
+title: "Survey delivery options"
+---
+
+BECCA can be delivered in person, online, by phone, or through a mixed
+approach. The right delivery method depends on the fishery, literacy,
+internet access, trust, language, and local partner capacity.
+
+In-person interviews are often best for small-scale, subsistence,
+Indigenous, rural, and gleaning fisheries. They allow the interviewer to
+explain questions, clarify local units, use photographs or containers,
+and build trust. They are also more appropriate where sensitive
+livelihood information is being collected.
+
+Online surveys can work well where respondents are digitally connected,
+such as recreational fisheries, guide networks, or formal fisher
+associations. A bonefish BECCAs used online structured surveys designed
+to be completed on phones and computers ^3^. This allowed rapid data
+collection across a large region, but it relied on strong networks,
+clear language, and a respondent group comfortable with digital tools.
+
+Text message or mobile surveys may be useful for repeated low-burden
+monitoring after an initial full BECCA. For example, fishers might be
+asked once per season to report their best day, number of hours, and
+area. This is not a full BECCA by itself, but it can help keep
+current-year data updated.
+
+Focus groups are useful for designing the survey, agreeing local terms,
+checking unit conversions, interpreting trends, and validating findings.
+However, individual catch histories should usually be collected
+individually, because group settings can influence responses^1^.

@@ -77,10 +77,9 @@ referrals, and public survey links. The final report should always
 explain how respondents were recruited and which groups may be
 underrepresented.
 
-![](media/image7.jpeg)
-
 **Key takeaway:**
-
+::: {.callout-tip}
+**Key takeaway:
 As a practical guide:
 
 -   **Very small fishery**: interview as many active and former fishers
@@ -96,3 +95,4 @@ As a practical guide:
 
 -   **Spatially divided fishery**: aim for at least 20 to 25 respondents
     per important area, where feasible.
+:::

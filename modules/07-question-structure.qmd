@@ -1,5 +1,5 @@
 ---
-title: "The minimum BECCA question structure"
+title: "The minimum BECAA question structure"
 ---
 
 ## Opening language
@@ -82,7 +82,7 @@ recorded.
 ## Size questions
 
 For single-species fisheries, or fisheries where body size is central to
-value, ecology, or management, BECCA should include a size metric. Size
+value, ecology, or management, BECAA should include a size metric. Size
 can be reported as weight, length, shell length, carapace width, market
 grade, or another locally meaningful measure.
 

@@ -2,15 +2,15 @@
 title: "Data quality, validation and ethics"
 ---
 
-BECCA relies on memory, so uncertainty should be expected and managed
+BECAA relies on memory, so uncertainty should be expected and managed
 rather than ignored^3,11,14^. Respondents may round numbers, be unsure
 of the exact year, report group catches as individual catches, or use
 local units that vary between people. Gear may have changed through
 time. Access, regulations, markets, and habitat conditions may also have
-changed. These are not reasons to avoid BECCA, but, they are reasons to
+changed. These are not reasons to avoid BECAA, but, they are reasons to
 design it carefully.
 
-A strong BECCA records respondent confidence, asks why the event is
+A strong BECAA records respondent confidence, asks why the event is
 remembered, distinguishes individual from group catch, records the gear
 used, records the hours fished or harvested, and documents whether the
 unit is exact, estimated, or locally converted. Responses can then be
@@ -35,7 +35,7 @@ changes explain the pattern, and what actions should follow.
 
 ## Ethics and community safeguards
 
-BECCA should never be treated as a way to extract knowledge from
+BECAA should never be treated as a way to extract knowledge from
 communities without returning value. Fishers and harvesters are
 contributing information that may relate to livelihoods, food security,
 cultural practice, identity, access rights, and management decisions.
@@ -63,13 +63,13 @@ Where possible:
 
 -   discuss risks with local partners before publication.
 
-Where BECCA is used with Indigenous Peoples or customary communities,
+Where BECAA is used with Indigenous Peoples or customary communities,
 the process should follow local protocols and principles of free, prior,
 and informed consent. Communities should be involved in deciding what is
 asked, how data are stored, who owns the data, who can access the data,
 and how results are shared.
 
-BECCA can reveal decline. Decline may lead to calls for restrictions,
+BECAA can reveal decline. Decline may lead to calls for restrictions,
 closures, gear changes, habitat protection, or restoration. These
 decisions can affect livelihoods. Findings should therefore be discussed
 with communities before being converted into policy recommendations. The

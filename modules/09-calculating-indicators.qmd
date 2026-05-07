@@ -1,10 +1,10 @@
 ---
-title: "How to calculate BECCA indicators"
+title: "How to calculate BECAA indicators"
 ---
 
 ## Catch per unit effort
 
-The basic BECCA calculation is catch-per-unit-effort. In the simplest
+The basic BECAA calculation is catch-per-unit-effort. In the simplest
 case:
 
 **Catch per hour = catch amount / hours fished or harvested**
@@ -23,7 +23,7 @@ multiplying by a locally defined standard day.
 **Catch per standard day = (catch amount / hours fished) × standard day
 length**
 
-In the bonefish BECCA, sightings were standardised by dividing reported
+In the bonefish BECAA, sightings were standardised by dividing reported
 sightings by each respondent's reported hours per trip and multiplying
 by the average fishing day length across all respondents. This produced
 sightings per standardised fishing day. The same logic can be used for

@@ -7,7 +7,7 @@ title: "Choosing the right catch metric"
 Before designing the questionnaire, the field team should ask local
 partners and fishers a simple question: "When people talk about a good
 fishing or harvesting day here, what unit do they use?" The answer will
-often reveal the best BECCA metric.
+often reveal the best BECAA metric.
 
 If people say "we count the number of fish", use number of fish. If they
 say "we sell by basket", record baskets and convert them. If they say
@@ -18,7 +18,7 @@ soaked overnight", use catch per trap per soak or catch per trap per
 day.
 
 The table below provides guidance, but it should not be treated as a
-fixed template. BECCA should be adapted to local fishing practice.
+fixed template. BECAA should be adapted to local fishing practice.
 
 **Table 1. Types of fishery with possible best catch metrics.**
 
@@ -96,7 +96,7 @@ that her best day was "four buckets of cockles", "two bags of clams", or
 "a basket of crabs". These are valid BECCA responses if the unit is
 documented clearly.
 
-A hypothetical BECCA in a coastal invertebrate gleaning community might
+A hypothetical BECAA in a coastal invertebrate gleaning community might
 begin with a short conversation about how people usually describe a good
 collecting day. If most harvesters talk in buckets, the survey should
 use buckets first and then ask how large the bucket is, whether it is a
@@ -131,7 +131,7 @@ number of fish, another by boxes, another by baskets, and another by
 sacks or bushels ^7^. The survey should accept the locally meaningful
 unit and then document it carefully.
 
-A hypothetical BECCA in a small-scale handline fishery might ask fishers
+A hypothetical BECAA in a small-scale handline fishery might ask fishers
 about their best day catching reef fish. A fisher might report that in
 1998, their boat caught six baskets in a day using handlines on the
 outer reef. The interviewer would then ask how many people were on the
@@ -141,7 +141,7 @@ boat or the fisher's individual share. The same respondent would then be
 asked about their best day in the current year using the same species
 group and method.
 
-A hypothetical BECCA in a trap fishery would need a different effort
+A hypothetical BECAA in a trap fishery would need a different effort
 measure. If the catch depends mainly on the number of traps and soak
 time, the core indicator may be catch per trap per day rather than catch
 per hour.
@@ -170,7 +170,7 @@ releasing or keeping it ^18^. Each stage can fail for reasons unrelated
 to abundance. Weather, visibility, fisher skill, line breakage,
 handling, or fish behaviour may determine whether a fish is landed ^14^.
 
-For this reason, BECCA can use earlier-stage interaction metrics. In
+For this reason, BECAA can use earlier-stage interaction metrics. In
 South Florida, respondents were asked separately about their best day in
 terms of shots, and size^3^. The survey made clear that the best day for
 shots and the largest fish could all fall in different years. This

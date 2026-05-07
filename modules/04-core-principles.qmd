@@ -1,10 +1,10 @@
 ---
-title: "Core principles of BECCA"
+title: "Core principles of BECAA"
 ---
 
 ## Number, year, effort
 
-The foundation of BECCA is simple. Every usable response needs a number,
+The foundation of BECAA is simple. Every usable response needs a number,
 a year, and an effort measure. The number describes what was caught,
 seen, hooked, harvested, or collected. The year places that event in
 time. The effort measure allows comparison between people, gears,
@@ -13,7 +13,7 @@ places, and years.
 
 ::: {.callout-tip}
 ## Key takeaway:
-A BECCA response should look like this:
+A BECAA response should look like this:
 
 *"In 1989, my best day was 65 fish."*
 
@@ -40,14 +40,14 @@ using 10 traps cannot be compared directly with a trap fisher using 100
 traps unless the number of traps and soak time are recorded.
 
 The minimum effort variable is the number of hours fished or harvested
-in a day. Where relevant, BECCA should also record the number of people
+in a day. Where relevant, BECAA should also record the number of people
 involved, the number of gears used, the number of traps, the number of
 hooks, net length, soak time, number of hauls, number of dives, or any
 other local effort unit that strongly affects catch.
 
 ## Current and past together
 
-BECCA works because it anchors the present against remembered historical
+BECAA works because it anchors the present against remembered historical
 baselines. Every survey must ask about the best catch in the current
 year. This is mandatory. Every survey must also ask either about the
 respondent's best ever catch or about the best catch in the year they
@@ -68,7 +68,7 @@ speak in shots, follows, eats, hookups, landed fish, or fish weight.
 These units should not be dismissed. They are often the units by which
 the fishery is actually remembered, shared, traded, and managed locally.
 
-The role of BECCA is to record the local unit clearly and then
+The role of BECAA is to record the local unit clearly and then
 standardise it where possible. If someone says they collected three
 sacks, the interviewer should ask what type of sack, whether that sack
 is a common local size, whether it varies by species, and approximately
@@ -96,7 +96,7 @@ For example:
 
 ## Match the metric to the fishery
 
-The best BECCA metric is the one that fishers can report accurately and
+The best BECAA metric is the one that fishers can report accurately and
 consistently. In some fisheries this will be number of fish. In others
 it will be weight. In gleaning fisheries it may be buckets or baskets.
 In trap fisheries it may be catch per trap per day. In sight-based

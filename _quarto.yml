@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "BECCA Learning Hub"
+  title: "BECAA Learning Hub"
   site-url: "https://becca.projectseagrass.org"
   repo-url: "https://github.com/project-seagrass/becca-learning-hub"
   repo-actions: [edit, issue]
@@ -17,9 +17,9 @@ website:
       - text: Modules
         menu:
           - href: modules/01-what-is-becca.qmd
-            text: "1. What is BECCA?"
+            text: "1. What is BECAA?"
           - href: modules/02-why-becca-was-developed.qmd
-            text: "2. Why BECCA was developed"
+            text: "2. Why BECAA was developed"
           - href: modules/03-why-best-catches.qmd
             text: "3. Why best catches?"
           - href: modules/04-core-principles.qmd
@@ -52,7 +52,7 @@ website:
       - href: index.qmd
         text: Home
       - href: at-a-glance.qmd
-        text: "BECCA at a glance"
+        text: "BECAA at a glance"
       - section: "Learning modules"
         contents:
           - modules/01-what-is-becca.qmd

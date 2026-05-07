@@ -35,7 +35,7 @@ During the survey design meeting, local women explain that a "bucket"
 usually means a 10-litre household bucket filled to the rim, although
 some households use larger containers.
 
-The BECCA asks each harvester about their best collecting day this year,
+The BECAA asks each harvester about their best collecting day this year,
 their best ever collecting day, and their best collecting day when they
 first started. For each event, the interviewer records the number of
 buckets, the year, the number of hours spent collecting, the number of
@@ -54,7 +54,7 @@ changes in who collects.
 
 A small-scale crab fishery uses baited traps set overnight. Fishers do
 not think of catch in hours because the traps fish while they are away.
-They think in terms of number of crabs per trap set. The BECCA therefore
+They think in terms of number of crabs per trap set. The BECAA therefore
 records catch, number of traps, and soak time.
 
 A fisher might say that in 2007 their best day was 300 crabs from 50
@@ -84,13 +84,13 @@ person-hour.
 
 The community validation discussion may reveal that catch composition
 has changed even where total baskets appear stable. This can trigger a
-follow-up survey or a more detailed species-specific BECCA.
+follow-up survey or a more detailed species-specific BECAA.
 
 ## Example 5: A traditional fish fence or weir fishery
 
 A traditional fish fence catches fish moving with the tide. Fishers
 describe the best catches by sacks and by tide cycles, not by hours. The
-BECCA therefore records the year, number of sacks, number of tide
+BECAA therefore records the year, number of sacks, number of tide
 cycles, number of people involved, and whether the catch came from one
 fence, one section, or a shared community structure.
 

@@ -1,5 +1,5 @@
 ---
-title: "Why BECCA was developed"
+title: "Why BECAA was developed"
 ---
 
 ## The data-poor fisheries problem
@@ -22,7 +22,7 @@ address this gap.
 
 ## The original development pathway
 
-BECCA was first developed through work on flats fisheries in South
+BECAA was first developed through work on flats fisheries in South
 Florida, especially bonefish, and later adapted to tarpon and permit.
 The original assessment was designed to create a standardised way of
 using local angler and guide knowledge to reconstruct long-term trends
@@ -37,7 +37,7 @@ analysed alongside fisheries data or used directly in assessment and
 management^1^. The same review identified a smaller group of studies
 that had asked fishers to recall best catches, largest individuals,
 catch rates, or past fishing conditions, creating a foundation for a
-more standardised BECCA protocol.
+more standardised BECAA protocol.
 
 The second stage was information optimisation. Rather than assuming that
 only the oldest fishers or recognised experts should be interviewed, the

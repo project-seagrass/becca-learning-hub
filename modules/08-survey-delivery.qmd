@@ -2,7 +2,7 @@
 title: "Survey delivery options"
 ---
 
-BECCA can be delivered in person, online, by phone, or through a mixed
+BECAA can be delivered in person, online, by phone, or through a mixed
 approach. The right delivery method depends on the fishery, literacy,
 internet access, trust, language, and local partner capacity.
 
@@ -20,9 +20,9 @@ collection across a large region, but it relied on strong networks,
 clear language, and a respondent group comfortable with digital tools.
 
 Text message or mobile surveys may be useful for repeated low-burden
-monitoring after an initial full BECCA. For example, fishers might be
+monitoring after an initial full BECAA. For example, fishers might be
 asked once per season to report their best day, number of hours, and
-area. This is not a full BECCA by itself, but it can help keep
+area. This is not a full BECAA by itself, but it can help keep
 current-year data updated.
 
 Focus groups are useful for designing the survey, agreeing local terms,

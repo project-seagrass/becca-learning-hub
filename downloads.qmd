@@ -4,6 +4,6 @@ title: "Downloads"
 
 ## Available files
 
-- [BECCA Handbook](downloads/BECCA_Handbook.pdf)
-- [BECCA Data Input Template](downloads/BECCA_Data_Input_Template.xlsx)
-- [BECCA Questionnaire](downloads/BECCA_Questionnaire.docx)
+- [BECAA Handbook](downloads/BECCA_Handbook.pdf)
+- [BECAA Data Input Template](downloads/BECCA_Data_Input_Template.xlsx)
+- [BECAA Questionnaire](downloads/BECCA_Questionnaire.docx)

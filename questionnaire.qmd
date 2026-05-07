@@ -1,8 +1,8 @@
 ---
-title: "BECCA questionnaire"
+title: "BECAA questionnaire"
 ---
 
-**Best Catch Assessment (BECCA) Questionnaire**
+**Best Catch Assessment (BECAA) Questionnaire**
 
 A printable field form for collecting quantitative fisher knowledge in
 data-poor fisheries
@@ -10,7 +10,7 @@ data-poor fisheries
 **How to use this questionnaire**
 
 This questionnaire is designed to be used alongside the Best Catch
-Assessment (BECCA) Handbook. The handbook explains the method and this
+Assessment (BECAA) Handbook. The handbook explains the method and this
 questionnaire is the field tool.
 
 The questionnaire has a core section that should be used in every BECCA.
@@ -19,7 +19,7 @@ fishery. Field teams should adapt the wording, species names, local
 places, gear categories, and catch units before printing or programming
 the survey into a digital form.
 
-The most important rule is simple: every usable BECCA response must
+The most important rule is simple: every usable BECAA response must
 include a number, a year, and an effort measure. If one of these is
 missing, the response may still be useful context, but it cannot be used
 properly in the main quantitative analysis.

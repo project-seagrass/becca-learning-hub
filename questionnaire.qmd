@@ -13,7 +13,7 @@ This questionnaire is designed to be used alongside the Best Catch
 Assessment (BECAA) Handbook. The handbook explains the method and this
 questionnaire is the field tool.
 
-The questionnaire has a core section that should be used in every BECCA.
+The questionnaire has a core section that should be used in every BECAA.
 It then includes optional modules that can be added depending on the
 fishery. Field teams should adapt the wording, species names, local
 places, gear categories, and catch units before printing or programming
@@ -317,7 +317,7 @@ Other:
 
 **Section C. Current-year best catch**
 
-This section is [mandatory]{.underline} for every BECCA.
+This section is [mandatory]{.underline} for every BECAA.
 
 **C1. Did you fish, guide, harvest, collect, or target
 \[species/fishery\] in the current year?**
@@ -394,7 +394,7 @@ catch, special trip.
 
 **Section D. Best-ever catch**
 
-This section is [mandatory]{.underline} for every BECCA.
+This section is [mandatory]{.underline} for every BECAA (use it as an either or option with Section E).
 
 **D1. Thinking across your whole fishing or harvesting life, what was
 your best ever fishing or harvesting day for \[species/fishery\]?**

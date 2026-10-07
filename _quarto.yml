@@ -4,7 +4,7 @@ project:
 
 website:
   title: "BECAA Learning Hub"
-  site-url: "https://becca.projectseagrass.org"
+  site-url: "https://becaa.projectseagrass.org"
   repo-url: "https://github.com/project-seagrass/becca-learning-hub"
   repo-actions: [edit, issue]
   navbar:

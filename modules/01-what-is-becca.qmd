@@ -40,7 +40,7 @@ random stories. They often anchor long-term experience and can reveal
 how fisheries have changed across decades.
 
 BECAA takes these memories and records them in a structured way. Instead
-of asking only whether fishing has become "better" or "worse", BECCA
+of asking only whether fishing has become "better" or "worse", BECAA
 asks how many were caught, how large they were, how many hours were
 spent fishing, what gear was used, and what year the event happened.
 This makes it possible to calculate effort-standardised indicators such

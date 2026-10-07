@@ -19,7 +19,7 @@ points, not vague averages from the distant past.
 
 This does not mean that all memories are perfect. A respondent may round
 numbers, confuse dates, or report an event that was influenced by
-unusual conditions. BECCA manages this uncertainty by asking many
+unusual conditions. BECAA manages this uncertainty by asking many
 respondents the same structured questions, collecting effort data,
 recording confidence, aggregating responses, and returning results to
 the community for validation.
@@ -46,5 +46,5 @@ Portugal^10^.
 These studies differ in design, species, geography, and terminology, but
 they share a central insight. Fishers can provide quantitative
 historical information when they are asked questions that allow them to
-answer numerically. BECCA takes this wider practice and turns it into a
+answer numerically. BECAA takes this wider practice and turns it into a
 standardised, practical protocol.

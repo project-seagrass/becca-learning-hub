@@ -2,9 +2,9 @@
 title: "Data storage"
 ---
 
-A clear data structure at the start will make future BECCA analysis much easier. The main recommendation is to store the data in **long format** rather than wide format. In long format, each row represents one catch memory or catch event, rather than one respondent.
+A clear data structure at the start will make future BECAA analysis much easier. The main recommendation is to store the data in **long format** rather than wide format. In long format, each row represents one catch memory or catch event, rather than one respondent.
 
-A BECCA dataset should ideally include four linked tables: a respondent table, a catch-event table, a local unit conversion table, and a location or region table. For simple projects, these can be separate sheets in one spreadsheet.
+A BECAA dataset should ideally include four linked tables: a respondent table, a catch-event table, a local unit conversion table, and a location or region table. For simple projects, these can be separate sheets in one spreadsheet.
 
 ## Respondent table
 

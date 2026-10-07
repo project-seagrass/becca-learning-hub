@@ -6,11 +6,11 @@ title: "What is BECAA?"
 
 A Best Catch Assessment (BECAA) is a standardised local knowledge survey
 that asks fishers or harvesters to report numeric information about
-their best remembered catch or fishing events. A BECCA records the
+their best remembered catch or fishing events. A BECAA records the
 amount caught or encountered, the year in which the event occurred, the
 effort required, the fishing method used, and the place or fishing area.
 
-At its simplest, BECCA asks four linked questions. What was your best
+At its simplest, BECAA asks four linked questions. What was your best
 catch or best fishing day in the current year? What was your best catch
 or best fishing day in the best year of your fishing life? What was your
 best catch or best fishing day in the year that you started fishing? How
@@ -39,7 +39,7 @@ now, or the place where fishing suddenly changed. These memories are not
 random stories. They often anchor long-term experience and can reveal
 how fisheries have changed across decades.
 
-BECCA takes these memories and records them in a structured way. Instead
+BECAA takes these memories and records them in a structured way. Instead
 of asking only whether fishing has become "better" or "worse", BECCA
 asks how many were caught, how large they were, how many hours were
 spent fishing, what gear was used, and what year the event happened.

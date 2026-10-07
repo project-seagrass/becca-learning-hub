@@ -93,7 +93,7 @@ fixed template. BECAA should be adapted to local fishing practice.
 In gleaning and invertebrate harvesting, catch is often remembered in
 containers rather than formal weights^16,17^. A female gleaner may say
 that her best day was "four buckets of cockles", "two bags of clams", or
-"a basket of crabs". These are valid BECCA responses if the unit is
+"a basket of crabs". These are valid BECAA responses if the unit is
 documented clearly.
 
 A hypothetical BECAA in a coastal invertebrate gleaning community might
@@ -154,7 +154,7 @@ how many traps were set, and how long had they been soaking?"*
 A historical version would ask for the same information in the
 respondent's best ever year.
 
-A hypothetical BECCA for a fish fence or weir fishery may need to use
+A hypothetical BECAA for a fish fence or weir fishery may need to use
 tide cycles or days set as the effort unit. If a fisher says the best
 catch came after a spring tide, the interviewer should record the number
 of tide cycles, the number of people involved, and whether the catch was

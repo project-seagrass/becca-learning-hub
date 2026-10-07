@@ -43,7 +43,7 @@ hours, or 16 person-hours. The catch rate is therefore 0.5 buckets per
 person-hour.
 
 This is especially important for gleaning, seining, netting, crew-based
-fishing, fish fences, and household harvesting. Every BECCA should ask
+fishing, fish fences, and household harvesting. Every BECAA should ask
 whether the reported catch was for one person, one boat, one crew, one
 household, or a larger group.
 
@@ -54,7 +54,7 @@ In some fisheries, hours alone may not be enough. A trap fisher using
 fisher using a 500 m net is not comparable to one using a 50 m net. A
 fisher using 20 hooks is not comparable to one using two hooks.
 
-Where gear strongly affects catch, BECCA should record gear effort. The
+Where gear strongly affects catch, BECAA should record gear effort. The
 analysis may then use catch per trap per day, catch per hook per hour,
 catch per metre of net per soak, catch per haul, catch per tide cycle,
 or catch per diver-hour. This does not mean every BECCA needs complex
@@ -66,7 +66,7 @@ well enough to choose the effort measure that makes comparisons fair.
 Size is usually not divided by effort. Instead, size is plotted by year,
 decade, region, or respondent cohort. Size metrics can include largest
 fish weight, largest fish length, shell size, carapace width, or market
-grade. In the bonefish and tarpon BECCAs, maximum size was treated
+grade. In the bonefish and tarpon BECAAs, maximum size was treated
 separately from encounter metrics because the largest fish reported by a
 respondent could occur in a different year from their best encounter
 day.

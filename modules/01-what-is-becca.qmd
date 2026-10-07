@@ -26,7 +26,7 @@ remember. Without both a number and a year, the response cannot be used
 to reconstruct change through time.
 
 A useful BECAA response is not "there were lots of fish when I was
-young". A useful BECCA response is "in 1989, my best day was 65 fish in
+young". A useful BECAA response is "in 1989, my best day was 65 fish in
 about six hours". The first statement gives context. The second creates
 data.
 

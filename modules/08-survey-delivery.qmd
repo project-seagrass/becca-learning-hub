@@ -14,7 +14,7 @@ livelihood information is being collected.
 
 Online surveys can work well where respondents are digitally connected,
 such as recreational fisheries, guide networks, or formal fisher
-associations. A bonefish BECCAs used online structured surveys designed
+associations. A bonefish BECAA used online structured surveys designed
 to be completed on phones and computers ^3^. This allowed rapid data
 collection across a large region, but it relied on strong networks,
 clear language, and a respondent group comfortable with digital tools.
